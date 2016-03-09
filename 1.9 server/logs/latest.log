@@ -443,3 +443,42 @@ Caused by: java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lor
 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
 	... 3 more
 
+[17:20:34] [Server thread/INFO]: Stopping the server
+[17:20:34] [Server thread/INFO]: Stopping server
+[17:20:34] [Server thread/INFO]: [CreativeGates] Disabling CreativeGates v2.8.7Beta
+[17:20:34] [Server thread/INFO]: [0;36;22m[[0;36;1mCreativeGates 2.8.7Beta[0;36;22m] [0;33;1mDisabled[m
+[17:20:34] [Server thread/INFO]: [CraftBook] Disabling CraftBook v3.8-SNAPSHOT:3803-e037f90,master
+[17:20:34] [Server thread/INFO]: [CraftBook] Saving persistent data to YAML!
+[17:20:34] [Server thread/INFO]: [MultiWorld] Disabling MultiWorld v5.2.6
+[17:20:34] [Server thread/INFO]: [MultiWorld] Disabled.
+[17:20:34] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
+[17:20:34] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[17:20:34] [Server thread/INFO]: [MassiveCore] Disabling MassiveCore v2.8.7Beta
+[17:20:34] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1mDisabled[m
+[17:20:34] [Server thread/INFO]: [CommandBook] Disabling CommandBook v2.4:1692-75bb1c8,master
+[17:20:34] [Server thread/ERROR]: Error occurred while disabling CommandBook v2.4:1692-75bb1c8,master (Is it up to date?)
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at com.sk89q.commandbook.session.SessionComponent.disable(SessionComponent.java:73) ~[?:?]
+	at com.zachsthings.libcomponents.ComponentManager.unloadComponents(ComponentManager.java:77) ~[?:?]
+	at com.zachsthings.libcomponents.bukkit.BasePlugin.onDisable(BasePlugin.java:63) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:293) ~[spigot-1.9.jar:git-Spigot-86016ba-94ba824]
+	at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:364) [spigot-1.9.jar:git-Spigot-86016ba-94ba824]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:424) [spigot-1.9.jar:git-Spigot-86016ba-94ba824]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:417) [spigot-1.9.jar:git-Spigot-86016ba-94ba824]
+	at org.bukkit.craftbukkit.v1_9_R1.CraftServer.disablePlugins(CraftServer.java:340) [spigot-1.9.jar:git-Spigot-86016ba-94ba824]
+	at net.minecraft.server.v1_9_R1.MinecraftServer.stop(MinecraftServer.java:454) [spigot-1.9.jar:git-Spigot-86016ba-94ba824]
+	at net.minecraft.server.v1_9_R1.MinecraftServer.run(MinecraftServer.java:595) [spigot-1.9.jar:git-Spigot-86016ba-94ba824]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_73]
+[17:20:34] [Server thread/INFO]: [PlotSquared] Disabling PlotSquared v3.3.0
+[17:20:34] [Server thread/INFO]: [0;33;22mAll DB transactions during this session are being validated (This may take a while if corrections need to be made)[m
+[17:20:34] [Server thread/INFO]: [WorldBorder] Disabling WorldBorder v1.8.5
+[17:20:34] [Server thread/INFO]: [WorldBorder] [CONFIG] Border-checking timed task stopped.
+[17:20:34] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[17:20:34] [Server thread/INFO]: Saving players
+[17:20:34] [Server thread/INFO]: Saving worlds
+[17:20:34] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[17:20:34] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[17:20:34] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
+[17:20:34] [Server thread/INFO]: Saving chunks for level 'creative'/Overworld
+[17:20:34] [Server thread/INFO]: Saving chunks for level 'skyblock'/Overworld
+[17:20:34] [Server thread/INFO]: Saving chunks for level 'survival'/Overworld
