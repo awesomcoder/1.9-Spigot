@@ -429,3 +429,17 @@ Caused by: java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lor
 [16:58:24] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.Thread.run(Unknown Source)
 [16:58:24] [Craft Scheduler Thread - 3/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22mInvalid playerdata: 49dabf7f-ceb6-36aa-909d-8284bc3448a6.dat[m
 [16:58:25] [Craft Scheduler Thread - 3/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;33;22mCached a total of: 8 UUIDs[m
+[17:13:29] [Craft Scheduler Thread - 24/WARN]: Exception in thread "Craft Scheduler Thread - 24" 
+[17:13:29] [Craft Scheduler Thread - 24/WARN]: org.apache.commons.lang.UnhandledException: Plugin MultiWorld v5.2.6 generated an exception while executing task 27
+	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:56)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at multiworld.metrics.Metrics.postPlugin(Metrics.java:372)
+	at multiworld.metrics.Metrics.access$400(Metrics.java:56)
+	at multiworld.metrics.Metrics$1.run(Metrics.java:238)
+	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftTask.run(CraftTask.java:71)
+	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
+	... 3 more
+
