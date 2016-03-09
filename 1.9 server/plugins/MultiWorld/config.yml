@@ -1,0 +1,64 @@
+# # options.debug: must the debug output be printed?
+# # options.difficulty: what is the server diffeculty?
+# # options.locale: what set of lang files must be used, supported: en_US, nl_NL, de_DE, it_IT
+# # spawnGroup: used to set withs worlds have what spawn, difficult to use. see official site for details
+options:
+  debug: false
+  difficulty: NORMAL
+  usecreativemode: false
+  usecreativemodeinv: true
+  blockEnderChestInCrea: false
+  useEndPortalHandler: false
+  useportalhandler: false
+  useWorldSpawnHandler: false
+  useWorldChatSeperator: false
+  craftbukkitHooks: true
+worlds:
+  creative:
+    seed: 5725401052035006017
+    worldgen: Normal
+    options: ''
+    difficulty: NORMAL
+    autoload: true
+    flags:
+      SPAWNMONSTER: false
+      SPAWNANIMAL: false
+      PVP: true
+      CREATIVEWORLD: true
+      RECIEVECHAT: false
+      SENDCHAT: false
+  skyblock:
+    seed: -8157919679050269377
+    worldgen: Normal
+    options: ''
+    difficulty: NORMAL
+    autoload: true
+    flags:
+      PVP: false
+      CREATIVEWORLD: false
+  survival:
+    seed: 3126371312980075789
+    worldgen: Normal
+    options: ''
+    difficulty: NORMAL
+    autoload: true
+  world:
+    seed: 1461928132
+    worldgen: Normal
+    options: ''
+    difficulty: PEACEFUL
+    autoload: true
+    flags:
+      PVP: false
+  world_nether:
+    seed: 1461928132
+    worldgen: Nether
+    options: ''
+    difficulty: PEACEFUL
+    autoload: true
+  world_the_end:
+    seed: 1461928132
+    worldgen: The_End
+    options: ''
+    difficulty: PEACEFUL
+    autoload: true

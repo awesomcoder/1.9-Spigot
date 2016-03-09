@@ -1,0 +1,59 @@
+{
+  "creatorId": "25cd2094-e0c3-4a8d-8269-eabf0c20a240",
+  "createdMillis": 1457381554756,
+  "usedMillis": 1457381805334,
+  "networkId": "Skyblock",
+  "restricted": false,
+  "enterEnabled": true,
+  "exitEnabled": true,
+  "exit": {
+    "w": "skyblock",
+    "lx": -18.97401193286238,
+    "ly": 146.0,
+    "lz": 19.696988764587854,
+    "p": 0.0,
+    "y": 180.0
+  },
+  "coords": [
+    {
+      "bx": -20,
+      "by": 147,
+      "bz": 20
+    },
+    {
+      "bx": -20,
+      "by": 148,
+      "bz": 20
+    },
+    {
+      "bx": -19,
+      "by": 146,
+      "bz": 20
+    },
+    {
+      "bx": -19,
+      "by": 147,
+      "bz": 20
+    },
+    {
+      "bx": -19,
+      "by": 148,
+      "bz": 20
+    },
+    {
+      "bx": -19,
+      "by": 149,
+      "bz": 20
+    },
+    {
+      "bx": -18,
+      "by": 147,
+      "bz": 20
+    },
+    {
+      "bx": -18,
+      "by": 148,
+      "bz": 20
+    }
+  ]
+}
