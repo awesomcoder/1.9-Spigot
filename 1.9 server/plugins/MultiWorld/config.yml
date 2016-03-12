@@ -15,10 +15,10 @@ options:
   craftbukkitHooks: true
 worlds:
   creative:
-    seed: 5725401052035006017
+    seed: 0
     worldgen: Normal
     options: ''
-    difficulty: NORMAL
+    difficulty: PEACEFUL
     autoload: true
     flags:
       SPAWNMONSTER: false

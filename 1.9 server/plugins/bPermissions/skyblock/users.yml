@@ -3,3 +3,7 @@ users:
     permissions: []
     groups:
     - default
+  51ab86bd-a9ae-4396-9401-4841fedfe2ed:
+    permissions: []
+    groups:
+    - default
