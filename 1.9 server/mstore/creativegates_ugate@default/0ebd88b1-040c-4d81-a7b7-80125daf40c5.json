@@ -1,16 +1,16 @@
 {
   "creatorId": "25cd2094-e0c3-4a8d-8269-eabf0c20a240",
-  "createdMillis": 1457385293655,
-  "usedMillis": 1457803532105,
+  "createdMillis": 1457808019186,
+  "usedMillis": 1457808019847,
   "networkId": "skyblock",
   "restricted": false,
   "enterEnabled": true,
   "exitEnabled": true,
   "exit": {
     "w": "skyblock",
-    "lx": 2.4604583820835932,
+    "lx": 2.2796695275534624,
     "ly": 67.0,
-    "lz": -9.322510125828021,
+    "lz": -10.29828250165227,
     "p": 0.0,
     "y": 0.0
   },

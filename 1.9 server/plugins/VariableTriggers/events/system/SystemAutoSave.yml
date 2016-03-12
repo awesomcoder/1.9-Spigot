@@ -1,0 +1,8 @@
+Worlds:
+- some_world_here
+- some_other_world_here
+Cooldown: 0
+Cancelled: false
+main:
+- '@COMMAND'
+ActiveCooldown: 1457807184193

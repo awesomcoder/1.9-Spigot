@@ -1,5 +1,452 @@
-[10:21:02] [Craft Scheduler Thread - 67/WARN]: Exception in thread "Craft Scheduler Thread - 67" 
-[10:21:02] [Craft Scheduler Thread - 67/WARN]: org.apache.commons.lang.UnhandledException: Plugin MultiWorld v5.2.6 generated an exception while executing task 11
+[13:13:02] [Server thread/INFO]: Starting minecraft server version 1.9
+[13:13:02] [Server thread/INFO]: Loading properties
+[13:13:02] [Server thread/INFO]: Default game type: ADVENTURE
+[13:13:03] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-86016ba-94ba824 (MC: 1.9) (Implementing API version 1.9-R0.1-SNAPSHOT)
+[13:13:03] [Server thread/INFO]: Debug logging is disabled
+[13:13:03] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:13:03] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:13:03] [Server thread/INFO]: Generating keypair
+[13:13:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:13:03] [Server thread/INFO]: Using default channel type
+[13:13:03] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[13:13:04] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.12.0
+[13:13:04] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[13:13:04] [Server thread/INFO]: [HealthBar] Loading HealthBar v1.8.3
+[13:13:04] [Server thread/INFO]: [Buycraft] Loading Buycraft v6.8.2
+[13:13:04] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
+[13:13:04] [Server thread/INFO]: [LaggRemover] Loading LaggRemover v0.2.2
+[13:13:04] [Server thread/INFO]: [bPermissions] Loading bPermissions v2.10.9m
+[13:13:04] [Server thread/INFO]: [MassiveCore] Loading MassiveCore v2.8.7Beta
+[13:13:04] [Server thread/INFO]: TimeUnit.MILLIS_PER_MINUTE: 60000
+[13:13:04] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[13:13:04] [Server thread/INFO]: [Factions] Loading Factions v2.8.7Beta
+[13:13:04] [Server thread/INFO]: [CombatLog] Loading CombatLog v1.8.11-hack
+[13:13:04] [Server thread/INFO]: [CreativeGates] Loading CreativeGates v2.8.7Beta
+[13:13:04] [Server thread/INFO]: [PlotSquared] Loading PlotSquared v3.3.1
+[13:13:04] [Server thread/INFO]: [VTV2] Loading VariableTriggers v2
+[13:13:04] [Server thread/INFO]: [SafeCreeper] Loading SafeCreeper v1.5.2.5
+[13:13:04] [Server thread/INFO]: [MultiWorld] Loading MultiWorld v5.2.6
+[13:13:04] [Server thread/INFO]: [PVP Arena] Loading pvparena v1.3.1.50
+[13:13:04] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
+[13:13:04] [Server thread/INFO]: [Vault][Permission] bPermissions2 hooked.
+[13:13:04] [Server thread/INFO]: [Vault] [Permission] bPermissions 2 found: Loaded
+[13:13:04] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[13:13:04] [Server thread/INFO]: [Vault][Chat] bPermissions2 hooked.
+[13:13:04] [Server thread/INFO]: [Vault] [Chat] bPermssions2 found: Loaded
+[13:13:04] [Server thread/INFO]: [Vault] Enabled Version 1.5.6-b49
+[13:13:04] [Server thread/INFO]: [MassiveCore] Enabling MassiveCore v2.8.7Beta
+[13:13:04] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1m=== ENABLE START ===[m
+[13:13:04] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1m[0;33;1mLoading Cachefile datas...[m
+[13:13:04] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1m[0;33;1mLoading Onlineplayer datas...[m
+[13:13:04] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1m[0;33;1mLoading Registry datas...[m
+[13:13:04] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1m[0;33;1mSaving Cachefile...[m
+[13:13:04] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1m[0;33;1mSetup of IdUtil took [0;35;1m19[0;33;1mms.[m
+[13:13:04] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1m[0;32;1mActivated Integration [0;35;1mIntegrationVault[m
+[13:13:04] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1m=== ENABLE [0;32;1mCOMPLETE [0;33;1m(Took [0;35;1m304ms[0;33;1m) ===[m
+[13:13:04] [Server thread/INFO]: [PlotSquared] Enabling PlotSquared v3.3.1
+[13:13:04] [Server thread/INFO]: $1PlotSquared is now enabled[m
+[13:13:04] [Server thread/INFO]: $3[$1P2$3] $2&6Debug Mode Enabled (Default). Edit the config to turn this off.[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mgreeting[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mfarewell[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mfeed[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mheal[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mnotify-enter[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mnotify-leave[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mitem-drop[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22minvincible[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22minstabreak[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mdrop-protection[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mforcefield[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mtitles[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mpve[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mpvp[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mno-worldedit[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mredstone[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mmisc-cap[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mentity-cap[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mmob-cap[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22manimal-cap[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mhostile-cap[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mvehicle-cap[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mmusic[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mdone[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22manalysis[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mdisable-physics[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mfly[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mexplosion[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mmob-place[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mhostile-interact[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mhostile-attack[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22manimal-interact[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22manimal-attack[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mtamed-interact[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mtamed-attack[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mplayer-interact[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mmisc-interact[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mmisc-place[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mmisc-break[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mhanging-interact[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mhanging-place[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mhanging-break[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mvehicle-use[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mvehicle-place[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mvehicle-break[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mdevice-interact[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mplace[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mbreak[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22muse[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mblocked-cmds[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mice-melt[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mkeep[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mgamemode[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mprice[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mtime[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mweather[m
+[13:13:04] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mdescription[m
+[13:13:05] [Server thread/INFO]: Creating tables[m
+[13:13:06] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;33;22mMetrics enabled.[m
+[13:13:06] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m [0;33;22mPlotSquared is using online UUIDs[m
+[13:13:07] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;31;1mKey: [0;33;22mAPI Location[0;31;1m, Value: [0;33;22mhttp://www.intellectualsites.com/minecraft.php[m
+[13:13:07] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;31;1mKey: [0;33;22mKill Road Mobs[0;31;1m, Value: [0;33;22mfalse[m
+[13:13:07] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;31;1mKey: [0;33;22mUse Metrics[0;31;1m, Value: [0;33;22mtrue[m
+[13:13:07] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;31;1mKey: [0;33;22mDelete Plots On Ban[0;31;1m, Value: [0;33;22mfalse[m
+[13:13:07] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;31;1mKey: [0;33;22mDB SQLite Enabled[0;31;1m, Value: [0;33;22mtrue[m
+[13:13:07] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;31;1mKey: [0;33;22mDB Mysql Enabled[0;31;1m, Value: [0;33;22mfalse[m
+[13:13:07] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;31;1mKey: [0;33;22mAuto Clear Enabled[0;31;1m, Value: [0;33;22mtrue[m
+[13:13:07] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;31;1mKey: [0;33;22mAuto Clear Days[0;31;1m, Value: [0;33;22m7[m
+[13:13:07] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;31;1mKey: [0;33;22mSchematics Save Path[0;31;1m, Value: [0;33;22mschematics[m
+[13:13:07] [Server thread/INFO]: [SafeCreeper] Enabling SafeCreeper v1.5.2.5
+[13:13:07] [Server thread/INFO]: [SafeCreeper] Safe Creeper API started!
+[13:13:07] [Server thread/INFO]: [SafeCreeper] Safe Creeper API enabled!
+[13:13:07] [Server thread/INFO]: [SafeCreeper] Loading global config...
+[13:13:07] [Server thread/INFO]: [SafeCreeper] Global config loaded, took 1 ms!
+[13:13:07] [Server thread/INFO]: [SafeCreeper] Loading world configs...
+[13:13:07] [Server thread/ERROR]: Error occurred while enabling SafeCreeper v1.5.2.5 (Is it up to date?)
+java.lang.NullPointerException
+	at java.util.Objects.requireNonNull(Unknown Source) ~[?:1.8.0_73]
+	at java.util.Arrays$ArrayList.<init>(Unknown Source) ~[?:1.8.0_73]
+	at java.util.Arrays.asList(Unknown Source) ~[?:1.8.0_73]
+	at com.timvisee.safecreeper.handler.SCConfigHandler.reloadWorldConfigs(SCConfigHandler.java:224) ~[?:?]
+	at com.timvisee.safecreeper.handler.SCConfigHandler.setup(SCConfigHandler.java:65) ~[?:?]
+	at com.timvisee.safecreeper.handler.SCConfigHandler.<init>(SCConfigHandler.java:54) ~[?:?]
+	at com.timvisee.safecreeper.SafeCreeper.setUpConfigHandler(SafeCreeper.java:451) ~[?:?]
+	at com.timvisee.safecreeper.SafeCreeper.onEnable(SafeCreeper.java:108) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:291) ~[spigot-1.9.jar:git-Spigot-86016ba-94ba824]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340) [spigot-1.9.jar:git-Spigot-86016ba-94ba824]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405) [spigot-1.9.jar:git-Spigot-86016ba-94ba824]
+	at org.bukkit.craftbukkit.v1_9_R1.CraftServer.loadPlugin(CraftServer.java:361) [spigot-1.9.jar:git-Spigot-86016ba-94ba824]
+	at org.bukkit.craftbukkit.v1_9_R1.CraftServer.enablePlugins(CraftServer.java:321) [spigot-1.9.jar:git-Spigot-86016ba-94ba824]
+	at net.minecraft.server.v1_9_R1.DedicatedServer.init(DedicatedServer.java:202) [spigot-1.9.jar:git-Spigot-86016ba-94ba824]
+	at net.minecraft.server.v1_9_R1.MinecraftServer.run(MinecraftServer.java:527) [spigot-1.9.jar:git-Spigot-86016ba-94ba824]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_73]
+[13:13:07] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[13:13:07] [Server thread/INFO]: Preparing level "world"
+[13:13:07] [Server thread/INFO]: -------- World Settings For [world] --------
+[13:13:07] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:13:07] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:13:07] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:13:07] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[13:13:07] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:13:07] [Server thread/INFO]: View Distance: 16
+[13:13:07] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[13:13:07] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:13:07] [Server thread/INFO]: Mob Spawn Range: 4
+[13:13:07] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:13:07] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:13:07] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:13:07] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:13:07] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:13:07] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:13:07] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:13:07] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:13:07] [Server thread/INFO]: Structure Info Saving: true
+[13:13:07] [Server thread/INFO]: Random Lighting Updates: false
+[13:13:07] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:13:07] [Server thread/INFO]: Max TNT Explosions: 100
+[13:13:07] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[13:13:07] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:13:07] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:13:07] [Server thread/INFO]: Max Entity Collisions: 8
+[13:13:07] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[13:13:07] [Server thread/INFO]: BukkitPlotGenerator does not fully support: null[m
+[13:13:08] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[13:13:08] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:13:08] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:13:08] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:13:08] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[13:13:08] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:13:08] [Server thread/INFO]: View Distance: 16
+[13:13:08] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[13:13:08] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:13:08] [Server thread/INFO]: Mob Spawn Range: 4
+[13:13:08] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:13:08] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:13:08] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:13:08] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:13:08] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:13:08] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:13:08] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:13:08] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:13:08] [Server thread/INFO]: Structure Info Saving: true
+[13:13:08] [Server thread/INFO]: Random Lighting Updates: false
+[13:13:08] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:13:08] [Server thread/INFO]: Max TNT Explosions: 100
+[13:13:08] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[13:13:08] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:13:08] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:13:08] [Server thread/INFO]: Max Entity Collisions: 8
+[13:13:08] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[13:13:08] [Server thread/INFO]: BukkitPlotGenerator does not fully support: null[m
+[13:13:08] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[13:13:08] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:13:08] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:13:08] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:13:08] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[13:13:08] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:13:08] [Server thread/INFO]: View Distance: 16
+[13:13:08] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[13:13:08] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:13:08] [Server thread/INFO]: Mob Spawn Range: 4
+[13:13:08] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:13:08] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:13:08] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:13:08] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:13:08] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:13:08] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:13:08] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:13:08] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:13:08] [Server thread/INFO]: Structure Info Saving: true
+[13:13:08] [Server thread/INFO]: Random Lighting Updates: false
+[13:13:08] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:13:08] [Server thread/INFO]: Max TNT Explosions: 100
+[13:13:08] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[13:13:08] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:13:08] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:13:08] [Server thread/INFO]: Max Entity Collisions: 8
+[13:13:08] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[13:13:08] [Server thread/INFO]: BukkitPlotGenerator does not fully support: null[m
+[13:13:08] [Server thread/INFO]: Preparing start region for level 0 (Seed: 1461928132)
+[13:13:09] [Server thread/INFO]: Preparing spawn area: 66%
+[13:13:09] [Server thread/INFO]: Preparing start region for level 1 (Seed: 1461928132)
+[13:13:10] [Server thread/INFO]: Preparing start region for level 2 (Seed: 1461928132)
+[13:13:10] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.12.0
+[13:13:13] [Server thread/INFO]: CoreProtect version 2.12.0 is enabled!
+[13:13:13] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[13:13:13] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[13:13:13] [Server thread/INFO]: [WorldEdit] Default configuration file written: config.yml
+[13:13:13] [Server thread/INFO]: WEPIF: Updated config file
+[13:13:13] [Server thread/INFO]: WEPIF: bPermissions detected! Using bPermissions for permissions
+[13:13:13] [Server thread/WARN]: [WorldEdit] 
+**********************************************
+** This WorldEdit version does not fully support your version of Bukkit.
+**
+** When working with blocks or undoing, chests will be empty, signs
+** will be blank, and so on. There will be no support for entity
+** and biome-related functions.
+**
+** Please see http://wiki.sk89q.com/wiki/WorldEdit/Bukkit_adapters
+**********************************************
+
+[13:13:13] [Server thread/INFO]: [HealthBar] Enabling HealthBar v1.8.3
+[13:13:14] [Server thread/INFO]: [Buycraft] Enabling Buycraft v6.8.2
+[13:13:14] [Server thread/INFO]: [Buycraft] Loaded all signs from disk
+[13:13:14] [Server thread/INFO]: [LaggRemover] Enabling LaggRemover v0.2.2
+[13:13:14] [Server thread/INFO]: [LaggRemover] The Smart Lag Detection AI is now active.
+[13:13:14] [Server thread/INFO]: [LaggRemover] Loaded 0 module(s)
+[13:13:14] [Server thread/INFO]: [LaggRemover] LaggRemover has been enabled!
+[13:13:14] [Server thread/INFO]: [bPermissions] Enabling bPermissions v2.10.9m
+[13:13:14] [Server thread/INFO]: WEPIF: bPermissions detected! Using bPermissions for permissions
+[13:13:14] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[13:13:14] [Server thread/INFO]: [WorldGuard] Default configuration file written: C:\Users\aeric\Desktop\1.9\1.9 server\plugins\WorldGuard\config.yml
+[13:13:14] [Server thread/INFO]: [WorldGuard] Default configuration file written: C:\Users\aeric\Desktop\1.9\1.9 server\plugins\WorldGuard\worlds\world\config.yml
+[13:13:14] [Server thread/INFO]: [WorldGuard] Default configuration file written: C:\Users\aeric\Desktop\1.9\1.9 server\plugins\WorldGuard\worlds\world\blacklist.txt
+[13:13:14] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[13:13:14] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[13:13:14] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[13:13:14] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[13:13:14] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[13:13:14] [Server thread/INFO]: [WorldGuard] Default configuration file written: C:\Users\aeric\Desktop\1.9\1.9 server\plugins\WorldGuard\worlds\world_nether\config.yml
+[13:13:14] [Server thread/INFO]: [WorldGuard] Default configuration file written: C:\Users\aeric\Desktop\1.9\1.9 server\plugins\WorldGuard\worlds\world_nether\blacklist.txt
+[13:13:14] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[13:13:14] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[13:13:14] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
+[13:13:14] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[13:13:14] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[13:13:14] [Server thread/INFO]: [WorldGuard] Default configuration file written: C:\Users\aeric\Desktop\1.9\1.9 server\plugins\WorldGuard\worlds\world_the_end\config.yml
+[13:13:14] [Server thread/INFO]: [WorldGuard] Default configuration file written: C:\Users\aeric\Desktop\1.9\1.9 server\plugins\WorldGuard\worlds\world_the_end\blacklist.txt
+[13:13:14] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[13:13:14] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[13:13:14] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
+[13:13:14] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[13:13:14] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[13:13:14] [Server thread/INFO]: [WorldGuard] Loading region data...
+[13:13:14] [Server thread/INFO]: [WorldGuard] Unloading and saving region data that is currently loaded...
+[13:13:14] [Server thread/INFO]: [WorldGuard] Loading region data for loaded worlds...
+[13:13:15] [Server thread/INFO]: [WorldGuard] Regions saved after UUID migration! This won't happen again unless you change the relevant configuration option in WorldGuard's config.
+[13:13:15] [Server thread/INFO]: [Factions] Enabling Factions v2.8.7Beta
+[13:13:15] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.8.7Beta[0;36;22m] [0;33;1m=== ENABLE START ===[m
+[13:13:15] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.8.7Beta[0;36;22m] [0;33;1m[0;32;1mActivated Integration [0;35;1mIntegrationWorldGuard[m
+[13:13:15] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.8.7Beta[0;36;22m] [0;33;1m[0;32;1mActivated Integration [0;35;1mIntegrationSpigot[m
+[13:13:15] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.8.7Beta[0;36;22m] [0;33;1m=== ENABLE [0;32;1mCOMPLETE [0;33;1m(Took [0;35;1m313ms[0;33;1m) ===[m
+[13:13:15] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.8.7Beta[0;36;22m] [0;33;1m=== ENABLE [0;32;1mCOMPLETE [0;33;1m(Took [0;35;1m313ms[0;33;1m) ===[m
+[13:13:15] [Server thread/INFO]: [CombatLog] Enabling CombatLog v1.8.11-hack
+[13:13:15] [Server thread/INFO]: [CombatLog] Loading messages.properties.
+[13:13:15] [Server thread/INFO]: [CombatLog] Loading config.yml.
+[13:13:15] [Server thread/INFO]: [0;31;1m[CombatLog] DisguiseCraft plugin not found! Disguise removal will not work.[m
+[13:13:15] [Server thread/INFO]: [0;31;1m[CombatLog] Vault plugin not found! Fine Punishment will not work.[m
+[13:13:15] [Server thread/INFO]: [CombatLog] CombatLog v1.8.11-hack Enabled.
+[13:13:15] [Server thread/INFO]: [CreativeGates] Enabling CreativeGates v2.8.7Beta
+[13:13:15] [Server thread/INFO]: [0;36;22m[[0;36;1mCreativeGates 2.8.7Beta[0;36;22m] [0;33;1m=== ENABLE START ===[m
+[13:13:15] [Server thread/INFO]: [0;36;22m[[0;36;1mCreativeGates 2.8.7Beta[0;36;22m] [0;33;1m=== ENABLE [0;32;1mCOMPLETE [0;33;1m(Took [0;35;1m100ms[0;33;1m) ===[m
+[13:13:15] [Server thread/INFO]: [VTV2] Enabling VariableTriggers v2
+[13:13:15] [Server thread/INFO]: [VTV2] [1;35mVariableTriggers is preparing files...[0;37m
+[13:13:15] [Server thread/INFO]: [VTV2] [0;36mAn older version of VT was detected on file.[0;37m
+[13:13:15] [Server thread/INFO]: [VTV2] [0;36mLet's convert your files into VTV2 format.[0;37m
+[13:13:17] [Server thread/INFO]: [VTV2] [0;36mAll done.[0;37m
+[13:13:17] [Server thread/INFO]: [VTV2] [1;35mVTV2 is ready.[0;37m
+[13:13:17] [Thread-47/WARN]: Exception in thread "Thread-47" 
+[13:13:17] [Thread-47/WARN]: java.lang.NoClassDefFoundError: me/clip/placeholderapi/PlaceholderAPI
+[13:13:17] [Thread-47/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parseVars(VTParser.java:1561)
+[13:13:17] [Thread-47/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parse(VTParser.java:152)
+[13:13:17] [Thread-47/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser$1.run(VTParser.java:108)
+[13:13:17] [Thread-47/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[13:13:17] [Thread-47/WARN]: Caused by: java.lang.ClassNotFoundException: me.clip.placeholderapi.PlaceholderAPI
+[13:13:17] [Thread-47/WARN]: 	at java.net.URLClassLoader.findClass(Unknown Source)
+[13:13:17] [Thread-47/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:101)
+[13:13:17] [Thread-47/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:86)
+[13:13:17] [Thread-47/WARN]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[13:13:17] [Thread-47/WARN]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[13:13:17] [Thread-47/WARN]: 	... 4 more
+[13:13:17] [Server thread/INFO]: [MultiWorld] Enabling MultiWorld v5.2.6
+[13:13:17] [Server thread/INFO]: Converting world 'creative'
+[13:13:17] [Server thread/INFO]: Scanning folders...
+[13:13:17] [Server thread/INFO]: Total conversion count is 66
+[13:13:18] [Server thread/INFO]: Converting... 30%
+[13:13:19] [Server thread/INFO]: Converting... 63%
+[13:13:20] [Server thread/INFO]: Converting... 98%
+[13:13:21] [Server thread/WARN]: Unable to create level.dat_mcr backup
+[13:13:21] [Server thread/INFO]: -------- World Settings For [creative] --------
+[13:13:21] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:13:21] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:13:21] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:13:21] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[13:13:21] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:13:21] [Server thread/INFO]: View Distance: 16
+[13:13:21] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[13:13:21] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:13:21] [Server thread/INFO]: Mob Spawn Range: 4
+[13:13:21] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:13:21] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:13:21] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:13:21] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:13:21] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:13:21] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:13:21] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:13:21] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:13:21] [Server thread/INFO]: Structure Info Saving: true
+[13:13:21] [Server thread/INFO]: Random Lighting Updates: false
+[13:13:21] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:13:21] [Server thread/INFO]: Max TNT Explosions: 100
+[13:13:21] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[13:13:21] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:13:21] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:13:21] [Server thread/INFO]: Max Entity Collisions: 8
+[13:13:21] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[13:13:21] [Server thread/INFO]: BukkitPlotGenerator does not fully support: null[m
+[13:13:21] [Server thread/INFO]: Preparing start region for level 3 (Seed: 7444829646270728497)
+[13:13:21] [Server thread/INFO]: [WorldGuard] Default configuration file written: C:\Users\aeric\Desktop\1.9\1.9 server\plugins\WorldGuard\worlds\creative\config.yml
+[13:13:21] [Server thread/INFO]: [WorldGuard] Default configuration file written: C:\Users\aeric\Desktop\1.9\1.9 server\plugins\WorldGuard\worlds\creative\blacklist.txt
+[13:13:21] [Server thread/INFO]: [WorldGuard] (creative) TNT ignition is PERMITTED.
+[13:13:21] [Server thread/INFO]: [WorldGuard] (creative) Lighters are PERMITTED.
+[13:13:21] [Server thread/INFO]: [WorldGuard] (creative) Lava fire is blocked.
+[13:13:21] [Server thread/INFO]: [WorldGuard] (creative) Fire spread is UNRESTRICTED.
+[13:13:21] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'creative'
+[13:13:21] [Server thread/INFO]: -------- World Settings For [skyblock] --------
+[13:13:21] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:13:21] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:13:21] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:13:21] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[13:13:21] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:13:21] [Server thread/INFO]: View Distance: 16
+[13:13:21] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[13:13:21] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:13:21] [Server thread/INFO]: Mob Spawn Range: 4
+[13:13:21] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:13:21] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:13:21] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:13:21] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:13:21] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:13:21] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:13:21] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:13:21] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:13:21] [Server thread/INFO]: Structure Info Saving: true
+[13:13:21] [Server thread/INFO]: Random Lighting Updates: false
+[13:13:21] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:13:21] [Server thread/INFO]: Max TNT Explosions: 100
+[13:13:21] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[13:13:21] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:13:21] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:13:21] [Server thread/INFO]: Max Entity Collisions: 8
+[13:13:21] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[13:13:21] [Server thread/INFO]: BukkitPlotGenerator does not fully support: null[m
+[13:13:21] [Server thread/INFO]: Preparing start region for level 4 (Seed: 1435672245)
+[13:13:21] [Server thread/INFO]: [WorldGuard] Default configuration file written: C:\Users\aeric\Desktop\1.9\1.9 server\plugins\WorldGuard\worlds\skyblock\config.yml
+[13:13:21] [Server thread/INFO]: [WorldGuard] Default configuration file written: C:\Users\aeric\Desktop\1.9\1.9 server\plugins\WorldGuard\worlds\skyblock\blacklist.txt
+[13:13:21] [Server thread/INFO]: [WorldGuard] (skyblock) TNT ignition is PERMITTED.
+[13:13:21] [Server thread/INFO]: [WorldGuard] (skyblock) Lighters are PERMITTED.
+[13:13:21] [Server thread/INFO]: [WorldGuard] (skyblock) Lava fire is blocked.
+[13:13:21] [Server thread/INFO]: [WorldGuard] (skyblock) Fire spread is UNRESTRICTED.
+[13:13:21] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'skyblock'
+[13:13:21] [Server thread/INFO]: -------- World Settings For [survival] --------
+[13:13:21] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:13:21] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:13:21] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:13:21] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[13:13:21] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:13:21] [Server thread/INFO]: View Distance: 16
+[13:13:21] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[13:13:21] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:13:21] [Server thread/INFO]: Mob Spawn Range: 4
+[13:13:21] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:13:21] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:13:21] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:13:21] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:13:21] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:13:21] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:13:21] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:13:21] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:13:21] [Server thread/INFO]: Structure Info Saving: true
+[13:13:21] [Server thread/INFO]: Random Lighting Updates: false
+[13:13:21] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:13:21] [Server thread/INFO]: Max TNT Explosions: 100
+[13:13:21] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[13:13:21] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:13:21] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:13:21] [Server thread/INFO]: Max Entity Collisions: 8
+[13:13:21] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[13:13:21] [Server thread/INFO]: BukkitPlotGenerator does not fully support: null[m
+[13:13:21] [Server thread/INFO]: Preparing start region for level 5 (Seed: 1935106320587638189)
+[13:13:21] [Server thread/INFO]: [WorldGuard] Default configuration file written: C:\Users\aeric\Desktop\1.9\1.9 server\plugins\WorldGuard\worlds\survival\config.yml
+[13:13:21] [Server thread/INFO]: [WorldGuard] Default configuration file written: C:\Users\aeric\Desktop\1.9\1.9 server\plugins\WorldGuard\worlds\survival\blacklist.txt
+[13:13:21] [Server thread/INFO]: [WorldGuard] (survival) TNT ignition is PERMITTED.
+[13:13:21] [Server thread/INFO]: [WorldGuard] (survival) Lighters are PERMITTED.
+[13:13:21] [Server thread/INFO]: [WorldGuard] (survival) Lava fire is blocked.
+[13:13:21] [Server thread/INFO]: [WorldGuard] (survival) Fire spread is UNRESTRICTED.
+[13:13:21] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'survival'
+[13:13:21] [Server thread/INFO]: [MultiWorld] v5.2.6 enabled.
+[13:13:21] [Server thread/INFO]: [PVP Arena] Enabling pvparena v1.3.1.50
+[13:13:22] [Server thread/INFO]: [0;33;1m[PVP Arena[0;33;1m] [mStatistics file loaded![m
+[13:13:22] [Server thread/INFO]: [0;33;1m[PVP Arena[0;33;1m] [mdebugging: off[m
+[13:13:22] [Server thread/INFO]: [PVP Arena] Downloading module update file...
+[13:13:22] [Server thread/INFO]: [PVP Arena] Downloaded module update file
+[13:13:22] [Server thread/INFO]: [PVP Arena] enabled (version pvparena v1.3.1.50)
+[13:13:22] [Thread-48/INFO]: Checking for updates...
+[13:13:22] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:13:22] [Server thread/INFO]: Done (15.243s)! For help, type "help" or "?"
+[13:13:22] [Craft Scheduler Thread - 0/WARN]: Exception in thread "Craft Scheduler Thread - 0" 
+[13:13:22] [Server thread/INFO]: [bPermissions] Permissions for world survival has loaded!
+[13:13:22] [Server thread/INFO]: [bPermissions] Permissions for world skyblock has loaded!
+[13:13:22] [Craft Scheduler Thread - 0/WARN]: org.apache.commons.lang.UnhandledException: Plugin MultiWorld v5.2.6 generated an exception while executing task 53
 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:56)
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
@@ -12,8 +459,239 @@ Caused by: java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lor
 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
 	... 3 more
 
-[10:36:04] [Craft Scheduler Thread - 83/WARN]: Exception in thread "Craft Scheduler Thread - 83" 
-[10:36:04] [Craft Scheduler Thread - 83/WARN]: org.apache.commons.lang.UnhandledException: Plugin MultiWorld v5.2.6 generated an exception while executing task 11
+[13:13:22] [Craft Scheduler Thread - 4/WARN]: Exception in thread "Craft Scheduler Thread - 4" 
+[13:13:22] [Server thread/INFO]: [bPermissions] Permissions for world * has loaded!
+[13:13:22] [Craft Scheduler Thread - 4/WARN]: org.apache.commons.lang.UnhandledException: Plugin CombatLog v1.8.11-hack generated an exception while executing task 45
+	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:56)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at com.jackproehl.plugins.Metrics.postPlugin(Metrics.java:192)
+	at com.jackproehl.plugins.Metrics.access$4(Metrics.java:186)
+	at com.jackproehl.plugins.Metrics$1.run(Metrics.java:119)
+	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftTask.run(CraftTask.java:71)
+	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
+	... 3 more
+
+[13:13:22] [Server thread/INFO]: [bPermissions] Permissions for world world_the_end has loaded!
+[13:13:22] [Server thread/INFO]: [bPermissions] Permissions for world world_nether has loaded!
+[13:13:22] [Server thread/INFO]: [bPermissions] Permissions for world world has loaded!
+[13:13:22] [Server thread/INFO]: [bPermissions] Permissions for world creative has loaded!
+[13:13:22] [Craft Scheduler Thread - 10/INFO]: [Vault] Checking for Updates ... 
+[13:13:22] [Thread-48/INFO]: You are using [0;33;1mv1.3.1.50[0;37;1m, an outdated version! Latest: [0;32;1mv1.3.2.59[m
+[13:13:22] [Thread-48/INFO]: https://www.spigotmc.org/resources/pvp-arena.16584/[m
+[13:13:23] [Craft Scheduler Thread - 5/INFO]: You are running the latest version of PlotSquared[m
+[13:13:23] [Craft Scheduler Thread - 10/INFO]: [Vault] No new version available
+[13:13:23] [Server thread/INFO]: Starting UUID caching[m
+[13:13:23] [Craft Scheduler Thread - 10/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;33;22mStarting player data caching for: world[m
+[13:13:23] [Craft Scheduler Thread - 10/INFO]: [0;32;1mFast mode UUID caching enabled![m
+[13:13:23] [Craft Scheduler Thread - 10/WARN]: java.lang.NullPointerException
+[13:13:23] [Craft Scheduler Thread - 10/WARN]: 	at com.plotsquared.bukkit.uuid.FileUUIDHandler$1.run(FileUUIDHandler.java:106)
+[13:13:23] [Craft Scheduler Thread - 10/WARN]: 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftTask.run(CraftTask.java:71)
+[13:13:23] [Craft Scheduler Thread - 10/WARN]: 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
+[13:13:23] [Craft Scheduler Thread - 10/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[13:13:23] [Craft Scheduler Thread - 10/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[13:13:23] [Craft Scheduler Thread - 10/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[13:13:23] [Craft Scheduler Thread - 10/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22mInvalid playerdata: 49dabf7f-ceb6-36aa-909d-8284bc3448a6.dat[m
+[13:13:23] [Craft Scheduler Thread - 10/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;33;22mCached a total of: 8 UUIDs[m
+[13:14:22] [Thread-49/WARN]: Exception in thread "Thread-49" 
+[13:14:22] [Thread-49/WARN]: java.lang.NoClassDefFoundError: me/clip/placeholderapi/PlaceholderAPI
+[13:14:22] [Thread-49/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parseVars(VTParser.java:1561)
+[13:14:22] [Thread-49/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parse(VTParser.java:152)
+[13:14:22] [Thread-49/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser$1.run(VTParser.java:108)
+[13:14:22] [Thread-49/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[13:15:22] [Thread-50/WARN]: Exception in thread "Thread-50" 
+[13:15:22] [Thread-50/WARN]: java.lang.NoClassDefFoundError: me/clip/placeholderapi/PlaceholderAPI
+[13:15:22] [Thread-50/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parseVars(VTParser.java:1561)
+[13:15:22] [Thread-50/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parse(VTParser.java:152)
+[13:15:22] [Thread-50/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser$1.run(VTParser.java:108)
+[13:15:22] [Thread-50/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[13:16:23] [Thread-51/WARN]: Exception in thread "Thread-51" 
+[13:16:23] [Thread-51/WARN]: java.lang.NoClassDefFoundError: me/clip/placeholderapi/PlaceholderAPI
+[13:16:23] [Thread-51/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parseVars(VTParser.java:1561)
+[13:16:23] [Thread-51/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parse(VTParser.java:152)
+[13:16:23] [Thread-51/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser$1.run(VTParser.java:108)
+[13:16:23] [Thread-51/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[13:16:45] [Thread-52/WARN]: Exception in thread "Thread-52" 
+[13:16:45] [Thread-52/WARN]: java.lang.NoClassDefFoundError: me/clip/placeholderapi/PlaceholderAPI
+[13:16:45] [Thread-52/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parseVars(VTParser.java:1561)
+[13:16:45] [Thread-52/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parse(VTParser.java:152)
+[13:16:45] [Thread-52/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser$1.run(VTParser.java:108)
+[13:16:45] [Thread-52/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[13:16:47] [User Authenticator #1/INFO]: UUID of player king_awesome4 is 25cd2094-e0c3-4a8d-8269-eabf0c20a240
+[13:16:48] [Server thread/INFO]: king_awesome4[/192.168.1.1:49975] logged in with entity id 32 at ([skyblock]2.699999988079071, 68.20000004768372, -9.426874074494235)
+[13:17:28] [Thread-53/WARN]: Exception in thread "Thread-53" 
+[13:17:28] [Thread-53/WARN]: java.lang.NoClassDefFoundError: me/clip/placeholderapi/PlaceholderAPI
+[13:17:28] [Thread-53/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parseVars(VTParser.java:1561)
+[13:17:28] [Thread-53/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parse(VTParser.java:152)
+[13:17:28] [Thread-53/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser$1.run(VTParser.java:108)
+[13:17:28] [Thread-53/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[13:18:31] [Thread-54/WARN]: Exception in thread "Thread-54" 
+[13:18:31] [Thread-54/WARN]: java.lang.NoClassDefFoundError: me/clip/placeholderapi/PlaceholderAPI
+[13:18:31] [Thread-54/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parseVars(VTParser.java:1561)
+[13:18:31] [Thread-54/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parse(VTParser.java:152)
+[13:18:31] [Thread-54/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser$1.run(VTParser.java:108)
+[13:18:31] [Thread-54/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[13:19:06] [Server thread/INFO]: king_awesome4 issued server command: /help
+[13:19:14] [Server thread/INFO]: king_awesome4 issued server command: /buycraft
+[13:19:23] [Server thread/INFO]: king_awesome4 issued server command: /buycraft
+[13:19:26] [Server thread/INFO]: king_awesome4 issued server command: /help
+[13:19:28] [Server thread/INFO]: king_awesome4 issued server command: /help 1
+[13:19:31] [Server thread/INFO]: king_awesome4 issued server command: /help 2
+[13:19:33] [Thread-55/WARN]: Exception in thread "Thread-55" 
+[13:19:33] [Thread-55/WARN]: java.lang.NoClassDefFoundError: me/clip/placeholderapi/PlaceholderAPI
+[13:19:33] [Thread-55/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parseVars(VTParser.java:1561)
+[13:19:33] [Thread-55/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parse(VTParser.java:152)
+[13:19:33] [Thread-55/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser$1.run(VTParser.java:108)
+[13:19:33] [Thread-55/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[13:19:37] [Server thread/INFO]: king_awesome4 issued server command: /help 3
+[13:19:50] [Server thread/INFO]: king_awesome4 issued server command: /help 4
+[13:20:06] [Server thread/INFO]: king_awesome4 issued server command: /help 5
+[13:20:26] [Server thread/INFO]: king_awesome4 issued server command: //fixwater
+[13:20:30] [Server thread/INFO]: king_awesome4 issued server command: //fixwater 1
+[13:20:34] [Thread-56/WARN]: Exception in thread "Thread-56" 
+[13:20:34] [Thread-56/WARN]: java.lang.NoClassDefFoundError: me/clip/placeholderapi/PlaceholderAPI
+[13:20:34] [Thread-56/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parseVars(VTParser.java:1561)
+[13:20:34] [Thread-56/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parse(VTParser.java:152)
+[13:20:34] [Thread-56/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser$1.run(VTParser.java:108)
+[13:20:34] [Thread-56/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[13:20:36] [Server thread/INFO]: king_awesome4 issued server command: //fixwater 2
+[13:20:52] [Server thread/INFO]: king_awesome4 issued server command: /co rollback t:1m r:40
+[13:21:30] [Server thread/INFO]: king_awesome4 issued server command: /mw spawn
+[13:21:35] [Thread-58/WARN]: Exception in thread "Thread-58" 
+[13:21:35] [Thread-58/WARN]: java.lang.NoClassDefFoundError: me/clip/placeholderapi/PlaceholderAPI
+[13:21:35] [Thread-58/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parseVars(VTParser.java:1561)
+[13:21:35] [Thread-58/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parse(VTParser.java:152)
+[13:21:35] [Thread-58/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser$1.run(VTParser.java:108)
+[13:21:35] [Thread-58/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[13:21:59] [Server thread/INFO]: king_awesome4 issued server command: /f admin
+[13:21:59] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.8.7Beta[0;36;22m] [0;33;1m[0;33;1m[0;37;1mking_awesome4 [0;32;1mENABLED [0;33;1moverride mode.[m
+[13:22:07] [Server thread/INFO]: king_awesome4 issued server command: /f claim auto SafeZone
+[13:22:07] [Server thread/INFO]: [0;35;1m[0;32;1m[0;32;1m-king_awesome4[0;33;1m bought [0;35;1m1 [0;33;1mchunk [0;35;1m[0;37;1msurvival [0;35;1m-1 [0;35;1m-1[0;33;1m.[m
+[13:22:07] [Server thread/INFO]:   [0;35;1m[0;32;1m[0;32;22mWilderness[0;33;1m --> [0;35;1m[0;33;22mSafeZone[m
+[13:22:10] [Server thread/INFO]: king_awesome4 issued server command: /f claim auto SafeZone
+[13:22:24] [Server thread/INFO]: king_awesome4 lost connection: Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host
+[13:22:24] [Server thread/INFO]: king_awesome4 left the game.
+[13:25:22] [Thread-59/WARN]: Exception in thread "Thread-59" 
+[13:25:22] [Thread-59/WARN]: java.lang.NoClassDefFoundError: me/clip/placeholderapi/PlaceholderAPI
+[13:25:22] [Thread-59/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parseVars(VTParser.java:1561)
+[13:25:22] [Thread-59/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parse(VTParser.java:152)
+[13:25:22] [Thread-59/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser$1.run(VTParser.java:108)
+[13:25:22] [Thread-59/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[13:25:24] [User Authenticator #2/INFO]: UUID of player king_awesome4 is 25cd2094-e0c3-4a8d-8269-eabf0c20a240
+[13:25:24] [Server thread/INFO]: king_awesome4[/192.168.1.1:50243] logged in with entity id 12853 at ([survival]-5.688474502414464, 110.0, -13.861266765821508)
+[13:25:52] [Server thread/INFO]: king_awesome4 issued server command: /f admin
+[13:25:52] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.8.7Beta[0;36;22m] [0;33;1m[0;33;1m[0;37;1mking_awesome4 [0;31;1mDISABLED [0;33;1moverride mode.[m
+[13:25:54] [Server thread/INFO]: king_awesome4 issued server command: /f admin
+[13:25:54] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.8.7Beta[0;36;22m] [0;33;1m[0;33;1m[0;37;1mking_awesome4 [0;32;1mENABLED [0;33;1moverride mode.[m
+[13:26:05] [Server thread/INFO]: king_awesome4 issued server command: /f claim auto SafeZone
+[13:26:05] [Server thread/INFO]: [0;35;1m[0;32;1m[0;32;1m-king_awesome4[0;33;1m bought [0;35;1m1 [0;33;1mchunk [0;35;1m[0;37;1mworld [0;35;1m15 [0;35;1m8[0;33;1m.[m
+[13:26:05] [Server thread/INFO]:   [0;35;1m[0;32;1m[0;32;22mWilderness[0;33;1m --> [0;35;1m[0;33;22mSafeZone[m
+[13:26:08] [Server thread/INFO]: [0;35;1m[0;32;1m[0;32;1m-king_awesome4[0;33;1m bought [0;35;1m1 [0;33;1mchunk [0;35;1m[0;37;1mworld [0;35;1m15 [0;35;1m9[0;33;1m.[m
+[13:26:08] [Server thread/INFO]:   [0;35;1m[0;32;1m[0;32;22mWilderness[0;33;1m --> [0;35;1m[0;33;22mSafeZone[m
+[13:26:24] [Thread-60/WARN]: Exception in thread "Thread-60" 
+[13:26:24] [Thread-60/WARN]: java.lang.NoClassDefFoundError: me/clip/placeholderapi/PlaceholderAPI
+[13:26:24] [Thread-60/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parseVars(VTParser.java:1561)
+[13:26:24] [Thread-60/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parse(VTParser.java:152)
+[13:26:24] [Thread-60/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser$1.run(VTParser.java:108)
+[13:26:24] [Thread-60/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[13:26:24] [Thread-61/WARN]: Exception in thread "Thread-61" 
+[13:26:24] [Thread-61/WARN]: java.lang.NoClassDefFoundError: me/clip/placeholderapi/PlaceholderAPI
+[13:26:24] [Thread-61/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parseVars(VTParser.java:1561)
+[13:26:24] [Thread-61/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parse(VTParser.java:152)
+[13:26:24] [Thread-61/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser$1.run(VTParser.java:108)
+[13:26:24] [Thread-61/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[13:26:24] [Server thread/INFO]: [0;37;22mVT [0;30;1m// [0;37;22mVariables saved.[m
+[13:26:24] [Server thread/INFO]: [0;37;22mVT [0;30;1m// [0;37;22mSaved all scripts.[m
+[13:26:24] [Server thread/INFO]: [0;37;22mVT [0;30;1m// [0;37;22mTriggers changed.[m
+[13:26:24] [Craft Scheduler Thread - 14/WARN]: Exception in thread "Craft Scheduler Thread - 14" 
+[13:26:24] [Craft Scheduler Thread - 14/WARN]: org.apache.commons.lang.UnhandledException: Plugin CombatLog v1.8.11-hack generated an exception while executing task 45
+	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:56)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at com.jackproehl.plugins.Metrics.postPlugin(Metrics.java:192)
+	at com.jackproehl.plugins.Metrics.access$4(Metrics.java:186)
+	at com.jackproehl.plugins.Metrics$1.run(Metrics.java:119)
+	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftTask.run(CraftTask.java:71)
+	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
+	... 3 more
+
+[13:26:26] [Server thread/INFO]: king_awesome4 issued server command: /f map
+[13:27:02] [Server thread/INFO]: king_awesome4 issued server command: /mw spawn
+[13:27:07] [Server thread/INFO]: king_awesome4 issued server command: /f map
+[13:27:11] [Server thread/INFO]: king_awesome4 issued server command: /f claim auto SafeZone
+[13:27:13] [Server thread/INFO]: king_awesome4 issued server command: /f claim auto SafeZone
+[13:27:13] [Server thread/INFO]: [0;35;1m[0;32;1m[0;32;1m-king_awesome4[0;33;1m bought [0;35;1m1 [0;33;1mchunk [0;35;1m[0;37;1mworld [0;35;1m18 [0;35;1m11[0;33;1m.[m
+[13:27:13] [Server thread/INFO]:   [0;35;1m[0;32;1m[0;32;22mWilderness[0;33;1m --> [0;35;1m[0;33;22mSafeZone[m
+[13:27:13] [Server thread/INFO]: [0;35;1m[0;32;1m[0;32;1m-king_awesome4[0;33;1m bought [0;35;1m1 [0;33;1mchunk [0;35;1m[0;37;1mworld [0;35;1m18 [0;35;1m10[0;33;1m.[m
+[13:27:13] [Server thread/INFO]:   [0;35;1m[0;32;1m[0;32;22mWilderness[0;33;1m --> [0;35;1m[0;33;22mSafeZone[m
+[13:27:14] [Server thread/INFO]: [0;35;1m[0;32;1m[0;32;1m-king_awesome4[0;33;1m bought [0;35;1m1 [0;33;1mchunk [0;35;1m[0;37;1mworld [0;35;1m17 [0;35;1m10[0;33;1m.[m
+[13:27:14] [Server thread/INFO]:   [0;35;1m[0;32;1m[0;32;22mWilderness[0;33;1m --> [0;35;1m[0;33;22mSafeZone[m
+[13:27:14] [Server thread/INFO]: [0;35;1m[0;32;1m[0;32;1m-king_awesome4[0;33;1m bought [0;35;1m1 [0;33;1mchunk [0;35;1m[0;37;1mworld [0;35;1m17 [0;35;1m11[0;33;1m.[m
+[13:27:14] [Server thread/INFO]:   [0;35;1m[0;32;1m[0;32;22mWilderness[0;33;1m --> [0;35;1m[0;33;22mSafeZone[m
+[13:27:26] [Thread-62/WARN]: Exception in thread "Thread-62" 
+[13:27:26] [Thread-62/WARN]: java.lang.NoClassDefFoundError: me/clip/placeholderapi/PlaceholderAPI
+[13:27:26] [Thread-62/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parseVars(VTParser.java:1561)
+[13:27:26] [Thread-62/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parse(VTParser.java:152)
+[13:27:26] [Thread-62/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser$1.run(VTParser.java:108)
+[13:27:26] [Thread-62/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[13:27:39] [Server thread/INFO]: king_awesome4 issued server command: /f claim auto SafeZone
+[13:27:43] [Server thread/INFO]: king_awesome4 issued server command: /f admin
+[13:27:43] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.8.7Beta[0;36;22m] [0;33;1m[0;33;1m[0;37;1mking_awesome4 [0;31;1mDISABLED [0;33;1moverride mode.[m
+[13:28:04] [Server thread/INFO]: king_awesome4 issued server command: /mw spawn
+[13:28:28] [Thread-63/WARN]: Exception in thread "Thread-63" 
+[13:28:28] [Thread-63/WARN]: java.lang.NoClassDefFoundError: me/clip/placeholderapi/PlaceholderAPI
+[13:28:28] [Thread-63/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parseVars(VTParser.java:1561)
+[13:28:28] [Thread-63/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parse(VTParser.java:152)
+[13:28:28] [Thread-63/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser$1.run(VTParser.java:108)
+[13:28:28] [Thread-63/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[13:29:19] [Server thread/INFO]: king_awesome4 issued server command: /f admin
+[13:29:19] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.8.7Beta[0;36;22m] [0;33;1m[0;33;1m[0;37;1mking_awesome4 [0;32;1mENABLED [0;33;1moverride mode.[m
+[13:29:23] [Server thread/INFO]: king_awesome4 issued server command: /f claim auto SafeZone
+[13:29:23] [Server thread/INFO]: [0;35;1m[0;32;1m[0;32;1m-king_awesome4[0;33;1m bought [0;35;1m1 [0;33;1mchunk [0;35;1m[0;37;1mworld [0;35;1m13 [0;35;1m7[0;33;1m.[m
+[13:29:23] [Server thread/INFO]:   [0;35;1m[0;32;1m[0;32;22mWilderness[0;33;1m --> [0;35;1m[0;33;22mSafeZone[m
+[13:29:29] [Thread-64/WARN]: Exception in thread "Thread-64" 
+[13:29:29] [Thread-64/WARN]: java.lang.NoClassDefFoundError: me/clip/placeholderapi/PlaceholderAPI
+[13:29:29] [Thread-64/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parseVars(VTParser.java:1561)
+[13:29:29] [Thread-64/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parse(VTParser.java:152)
+[13:29:29] [Thread-64/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser$1.run(VTParser.java:108)
+[13:29:29] [Thread-64/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[13:29:31] [Server thread/INFO]: [0;35;1m[0;32;1m[0;32;1m-king_awesome4[0;33;1m bought [0;35;1m1 [0;33;1mchunk [0;35;1m[0;37;1mworld [0;35;1m14 [0;35;1m7[0;33;1m.[m
+[13:29:31] [Server thread/INFO]:   [0;35;1m[0;32;1m[0;32;22mWilderness[0;33;1m --> [0;35;1m[0;33;22mSafeZone[m
+[13:30:05] [Server thread/INFO]: king_awesome4 issued server command: /f claim auto SafeZone
+[13:30:08] [Server thread/INFO]: king_awesome4 issued server command: /f claim auto SafeZone
+[13:30:17] [Server thread/INFO]: [0;35;1m[0;32;1m[0;32;1m-king_awesome4[0;33;1m bought [0;35;1m1 [0;33;1mchunk [0;35;1m[0;37;1mworld [0;35;1m12 [0;35;1m7[0;33;1m.[m
+[13:30:17] [Server thread/INFO]:   [0;35;1m[0;32;1m[0;32;22mWilderness[0;33;1m --> [0;35;1m[0;33;22mSafeZone[m
+[13:30:18] [Server thread/INFO]: [0;35;1m[0;32;1m[0;32;1m-king_awesome4[0;33;1m bought [0;35;1m1 [0;33;1mchunk [0;35;1m[0;37;1mworld [0;35;1m12 [0;35;1m6[0;33;1m.[m
+[13:30:18] [Server thread/INFO]:   [0;35;1m[0;32;1m[0;32;22mWilderness[0;33;1m --> [0;35;1m[0;33;22mSafeZone[m
+[13:30:19] [Server thread/INFO]: [0;35;1m[0;32;1m[0;32;1m-king_awesome4[0;33;1m bought [0;35;1m1 [0;33;1mchunk [0;35;1m[0;37;1mworld [0;35;1m13 [0;35;1m6[0;33;1m.[m
+[13:30:19] [Server thread/INFO]:   [0;35;1m[0;32;1m[0;32;22mWilderness[0;33;1m --> [0;35;1m[0;33;22mSafeZone[m
+[13:30:20] [Server thread/INFO]: [0;35;1m[0;32;1m[0;32;1m-king_awesome4[0;33;1m bought [0;35;1m1 [0;33;1mchunk [0;35;1m[0;37;1mworld [0;35;1m13 [0;35;1m5[0;33;1m.[m
+[13:30:20] [Server thread/INFO]:   [0;35;1m[0;32;1m[0;32;22mWilderness[0;33;1m --> [0;35;1m[0;33;22mSafeZone[m
+[13:30:23] [Server thread/INFO]: [0;35;1m[0;32;1m[0;32;1m-king_awesome4[0;33;1m bought [0;35;1m1 [0;33;1mchunk [0;35;1m[0;37;1mworld [0;35;1m14 [0;35;1m5[0;33;1m.[m
+[13:30:23] [Server thread/INFO]:   [0;35;1m[0;32;1m[0;32;22mWilderness[0;33;1m --> [0;35;1m[0;33;22mSafeZone[m
+[13:30:24] [Server thread/INFO]: [0;35;1m[0;32;1m[0;32;1m-king_awesome4[0;33;1m bought [0;35;1m1 [0;33;1mchunk [0;35;1m[0;37;1mworld [0;35;1m14 [0;35;1m6[0;33;1m.[m
+[13:30:24] [Server thread/INFO]:   [0;35;1m[0;32;1m[0;32;22mWilderness[0;33;1m --> [0;35;1m[0;33;22mSafeZone[m
+[13:30:30] [Thread-65/WARN]: Exception in thread "Thread-65" 
+[13:30:30] [Thread-65/WARN]: java.lang.NoClassDefFoundError: me/clip/placeholderapi/PlaceholderAPI
+[13:30:30] [Thread-65/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parseVars(VTParser.java:1561)
+[13:30:30] [Thread-65/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parse(VTParser.java:152)
+[13:30:30] [Thread-65/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser$1.run(VTParser.java:108)
+[13:30:30] [Thread-65/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[13:30:37] [Server thread/INFO]: king_awesome4 issued server command: /f map
+[13:30:43] [Server thread/INFO]: king_awesome4 issued server command: /f claim auto SafeZone
+[13:31:01] [Server thread/INFO]: king_awesome4 issued server command: /mw spawn
+[13:31:31] [Thread-66/WARN]: Exception in thread "Thread-66" 
+[13:31:31] [Thread-66/WARN]: java.lang.NoClassDefFoundError: me/clip/placeholderapi/PlaceholderAPI
+[13:31:31] [Thread-66/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parseVars(VTParser.java:1561)
+[13:31:31] [Thread-66/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parse(VTParser.java:152)
+[13:31:31] [Thread-66/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser$1.run(VTParser.java:108)
+[13:31:31] [Thread-66/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[13:31:31] [Craft Scheduler Thread - 25/WARN]: Exception in thread "Craft Scheduler Thread - 25" 
+[13:31:31] [Craft Scheduler Thread - 25/WARN]: org.apache.commons.lang.UnhandledException: Plugin MultiWorld v5.2.6 generated an exception while executing task 53
 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:56)
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
@@ -26,154 +704,177 @@ Caused by: java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lor
 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
 	... 3 more
 
-[10:51:05] [Craft Scheduler Thread - 102/WARN]: Exception in thread "Craft Scheduler Thread - 102" 
-[10:51:05] [Craft Scheduler Thread - 102/WARN]: org.apache.commons.lang.UnhandledException: Plugin MultiWorld v5.2.6 generated an exception while executing task 11
+[13:31:59] [Server thread/INFO]: king_awesome4 issued server command: /f claim 1 safezone
+[13:32:10] [Server thread/INFO]: king_awesome4 issued server command: /f claim one safezone
+[13:32:10] [Server thread/INFO]: [0;35;1m[0;32;1m[0;32;1m-king_awesome4[0;33;1m bought [0;35;1m1 [0;33;1mchunk [0;35;1m[0;37;1mskyblock [0;35;1m0 [0;35;1m-1[0;33;1m.[m
+[13:32:10] [Server thread/INFO]:   [0;35;1m[0;32;1m[0;32;22mWilderness[0;33;1m --> [0;35;1m[0;33;22mSafeZone[m
+[13:32:25] [Server thread/INFO]: king_awesome4 issued server command: /f unclaim one safezone
+[13:32:31] [Server thread/INFO]: king_awesome4 issued server command: /f unclaim one
+[13:32:31] [Server thread/INFO]: [0;35;1m[0;32;1m[0;32;1m-king_awesome4[0;33;1m pillaged [0;35;1m1 [0;33;1mchunk [0;35;1m[0;37;1mskyblock [0;35;1m0 [0;35;1m-1[0;33;1m.[m
+[13:32:31] [Server thread/INFO]:   [0;35;1m[0;33;22mSafeZone[0;33;1m --> [0;35;1m[0;32;1m[0;32;22mWilderness[m
+[13:32:31] [Thread-67/WARN]: Exception in thread "Thread-67" 
+[13:32:31] [Thread-67/WARN]: java.lang.NoClassDefFoundError: me/clip/placeholderapi/PlaceholderAPI
+[13:32:31] [Thread-67/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parseVars(VTParser.java:1561)
+[13:32:31] [Thread-67/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parse(VTParser.java:152)
+[13:32:31] [Thread-67/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser$1.run(VTParser.java:108)
+[13:32:31] [Thread-67/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[13:32:34] [Server thread/INFO]: king_awesome4 issued server command: /f unclaim one
+[13:33:32] [Thread-68/WARN]: Exception in thread "Thread-68" 
+[13:33:32] [Thread-68/WARN]: java.lang.NoClassDefFoundError: me/clip/placeholderapi/PlaceholderAPI
+[13:33:32] [Thread-68/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parseVars(VTParser.java:1561)
+[13:33:32] [Thread-68/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parse(VTParser.java:152)
+[13:33:32] [Thread-68/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser$1.run(VTParser.java:108)
+[13:33:32] [Thread-68/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[13:33:45] [Server thread/INFO]: king_awesome4 issued server command: /f claim one safezone
+[13:33:52] [Server thread/INFO]: king_awesome4 issued server command: /f admin
+[13:33:52] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.8.7Beta[0;36;22m] [0;33;1m[0;33;1m[0;37;1mking_awesome4 [0;31;1mDISABLED [0;33;1moverride mode.[m
+[13:33:55] [Server thread/INFO]: king_awesome4 issued server command: /f admin
+[13:33:55] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.8.7Beta[0;36;22m] [0;33;1m[0;33;1m[0;37;1mking_awesome4 [0;32;1mENABLED [0;33;1moverride mode.[m
+[13:34:13] [Server thread/INFO]: king_awesome4 issued server command: /mw spawn
+[13:34:33] [Thread-69/WARN]: Exception in thread "Thread-69" 
+[13:34:33] [Thread-69/WARN]: java.lang.NoClassDefFoundError: me/clip/placeholderapi/PlaceholderAPI
+[13:34:33] [Thread-69/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parseVars(VTParser.java:1561)
+[13:34:33] [Thread-69/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parse(VTParser.java:152)
+[13:34:33] [Thread-69/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser$1.run(VTParser.java:108)
+[13:34:33] [Thread-69/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[13:35:33] [Thread-70/WARN]: Exception in thread "Thread-70" 
+[13:35:33] [Thread-70/WARN]: java.lang.NoClassDefFoundError: me/clip/placeholderapi/PlaceholderAPI
+[13:35:33] [Thread-70/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parseVars(VTParser.java:1561)
+[13:35:33] [Thread-70/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parse(VTParser.java:152)
+[13:35:33] [Thread-70/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser$1.run(VTParser.java:108)
+[13:35:33] [Thread-70/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[13:35:35] [Server thread/INFO]: king_awesome4 issued server command: /mw goto world
+[13:35:35] [Server thread/INFO]: [0;34;1m[[0;31;22mMultiWorld[0;34;1m] [0;36;22mking_awesome4: Moved player king_awesome4 to world world[m
+[13:36:34] [Thread-71/WARN]: Exception in thread "Thread-71" 
+[13:36:34] [Thread-72/WARN]: Exception in thread "Thread-72" 
+[13:36:34] [Thread-71/WARN]: java.lang.NoClassDefFoundError: me/clip/placeholderapi/PlaceholderAPI
+[13:36:34] [Thread-71/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parseVars(VTParser.java:1561)
+[13:36:34] [Thread-71/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parse(VTParser.java:152)
+[13:36:34] [Thread-71/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser$1.run(VTParser.java:108)
+[13:36:34] [Thread-71/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[13:36:34] [Thread-72/WARN]: java.lang.NoClassDefFoundError: me/clip/placeholderapi/PlaceholderAPI
+[13:36:34] [Thread-72/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parseVars(VTParser.java:1561)
+[13:36:34] [Thread-72/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parse(VTParser.java:152)
+[13:36:34] [Thread-72/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser$1.run(VTParser.java:108)
+[13:36:34] [Thread-72/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[13:36:34] [Server thread/INFO]: [0;37;22mVT [0;30;1m// [0;37;22mVariables saved.[m
+[13:36:34] [Server thread/INFO]: [0;37;22mVT [0;30;1m// [0;37;22mSaved all scripts.[m
+[13:36:34] [Server thread/INFO]: [0;37;22mVT [0;30;1m// [0;37;22mTriggers changed.[m
+[13:36:34] [Craft Scheduler Thread - 30/WARN]: Exception in thread "Craft Scheduler Thread - 30" 
+[13:36:34] [Craft Scheduler Thread - 30/WARN]: org.apache.commons.lang.UnhandledException: Plugin CombatLog v1.8.11-hack generated an exception while executing task 45
 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:56)
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
 	at java.lang.Thread.run(Unknown Source)
 Caused by: java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
-	at multiworld.metrics.Metrics.postPlugin(Metrics.java:372)
-	at multiworld.metrics.Metrics.access$400(Metrics.java:56)
-	at multiworld.metrics.Metrics$1.run(Metrics.java:238)
+	at com.jackproehl.plugins.Metrics.postPlugin(Metrics.java:192)
+	at com.jackproehl.plugins.Metrics.access$4(Metrics.java:186)
+	at com.jackproehl.plugins.Metrics$1.run(Metrics.java:119)
 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftTask.run(CraftTask.java:71)
 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
 	... 3 more
 
-[11:06:06] [Craft Scheduler Thread - 118/WARN]: Exception in thread "Craft Scheduler Thread - 118" 
-[11:06:06] [Craft Scheduler Thread - 118/WARN]: org.apache.commons.lang.UnhandledException: Plugin MultiWorld v5.2.6 generated an exception while executing task 11
-	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:56)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-Caused by: java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
-	at multiworld.metrics.Metrics.postPlugin(Metrics.java:372)
-	at multiworld.metrics.Metrics.access$400(Metrics.java:56)
-	at multiworld.metrics.Metrics$1.run(Metrics.java:238)
-	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftTask.run(CraftTask.java:71)
-	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
-	... 3 more
-
-[11:21:07] [Craft Scheduler Thread - 134/WARN]: Exception in thread "Craft Scheduler Thread - 134" 
-[11:21:07] [Craft Scheduler Thread - 134/WARN]: org.apache.commons.lang.UnhandledException: Plugin MultiWorld v5.2.6 generated an exception while executing task 11
-	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:56)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-Caused by: java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
-	at multiworld.metrics.Metrics.postPlugin(Metrics.java:372)
-	at multiworld.metrics.Metrics.access$400(Metrics.java:56)
-	at multiworld.metrics.Metrics$1.run(Metrics.java:238)
-	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftTask.run(CraftTask.java:71)
-	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
-	... 3 more
-
-[11:36:08] [Craft Scheduler Thread - 153/WARN]: Exception in thread "Craft Scheduler Thread - 153" 
-[11:36:08] [Craft Scheduler Thread - 153/WARN]: org.apache.commons.lang.UnhandledException: Plugin MultiWorld v5.2.6 generated an exception while executing task 11
-	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:56)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-Caused by: java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
-	at multiworld.metrics.Metrics.postPlugin(Metrics.java:372)
-	at multiworld.metrics.Metrics.access$400(Metrics.java:56)
-	at multiworld.metrics.Metrics$1.run(Metrics.java:238)
-	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftTask.run(CraftTask.java:71)
-	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
-	... 3 more
-
-[11:48:43] [User Authenticator #1/INFO]: UUID of player king_awesome4 is 25cd2094-e0c3-4a8d-8269-eabf0c20a240
-[11:48:44] [Server thread/INFO]: king_awesome4[/192.168.1.1:63432] logged in with entity id 295 at ([creative]-79.32844540416015, 32.0, -41.19083718370129)
-[11:48:50] [Server thread/INFO]: king_awesome4 issued server command: /whitelist off
-[11:48:50] [Server thread/INFO]: [king_awesome4: Turned off the whitelist]
-[11:48:53] [Server thread/INFO]: king_awesome4 issued server command: /gamemode 1
-[11:48:53] [Server thread/INFO]: [king_awesome4: Set own game mode to Creative Mode]
-[11:49:03] [Server thread/INFO]: king_awesome4 issued server command: /give king_awesome4 minecraft:command_block
-[11:49:03] [Server thread/INFO]: [king_awesome4: Given [Command Block] * 1 to king_awesome4]
-[11:49:32] [Server thread/INFO]: king_awesome4 lost connection: Disconnected
-[11:49:32] [Server thread/INFO]: king_awesome4 left the game.
-[12:01:38] [Craft Scheduler Thread - 168/WARN]: Exception in thread "Craft Scheduler Thread - 168" 
-[12:01:38] [Craft Scheduler Thread - 168/WARN]: org.apache.commons.lang.UnhandledException: Plugin MultiWorld v5.2.6 generated an exception while executing task 11
-	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:56)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-Caused by: java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
-	at multiworld.metrics.Metrics.postPlugin(Metrics.java:372)
-	at multiworld.metrics.Metrics.access$400(Metrics.java:56)
-	at multiworld.metrics.Metrics$1.run(Metrics.java:238)
-	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftTask.run(CraftTask.java:71)
-	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
-	... 3 more
-
-[12:08:46] [User Authenticator #2/INFO]: UUID of player king_awesome4 is 25cd2094-e0c3-4a8d-8269-eabf0c20a240
-[12:08:47] [Server thread/INFO]: king_awesome4[/192.168.1.1:63798] logged in with entity id 301 at ([creative]-7.606131882058038, 35.25178390334711, -4.170791251274804)
-[12:09:35] [Server thread/INFO]: king_awesome4 issued server command: /mw goto skyblock
-[12:09:35] [Server thread/INFO]: [0;34;1m[[0;31;22mMultiWorld[0;34;1m] [0;36;22mking_awesome4: Moved player king_awesome4 to world skyblock[m
-[12:14:42] [Server thread/INFO]: king_awesome4 issued server command: /mw spawn
-[12:15:10] [Server thread/INFO]: king_awesome4 issued server command: /setspawn
-[12:15:15] [Server thread/INFO]: king_awesome4 issued server command: /setworldspawn
-[12:15:15] [Server thread/INFO]: [king_awesome4: Set the world spawn point to (2, 67, -11)]
-[12:15:33] [Server thread/INFO]: king_awesome4 issued server command: /setworldspawn
-[12:15:33] [Server thread/INFO]: [king_awesome4: Set the world spawn point to (3, 67, -2)]
-[12:16:27] [Server thread/INFO]: king_awesome4 issued server command: /mw setflag skyblock CreativeWorld
-[12:16:30] [Server thread/INFO]: king_awesome4 issued server command: /mw setflag skyblock CreativeWorld true
-[12:16:30] [Server thread/INFO]: [0;34;1m[[0;31;22mMultiWorld[0;34;1m] [0;36;22mking_awesome4: Succesfully set flag CreativeWorld to TRUE[m
-[12:16:43] [Craft Scheduler Thread - 185/WARN]: Exception in thread "Craft Scheduler Thread - 185" 
-[12:16:43] [Craft Scheduler Thread - 185/WARN]: org.apache.commons.lang.UnhandledException: Plugin MultiWorld v5.2.6 generated an exception while executing task 11
-	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:56)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-Caused by: java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
-	at multiworld.metrics.Metrics.postPlugin(Metrics.java:372)
-	at multiworld.metrics.Metrics.access$400(Metrics.java:56)
-	at multiworld.metrics.Metrics$1.run(Metrics.java:238)
-	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftTask.run(CraftTask.java:71)
-	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
-	... 3 more
-
-[12:16:46] [Server thread/INFO]: king_awesome4 issued server command: /mw setflag skyblock PvP false
-[12:16:54] [Server thread/INFO]: king_awesome4 issued server command: /mw setflag skyblock SpawnMonster true
-[12:17:00] [Server thread/INFO]: king_awesome4 issued server command: /mw setflag skyblock SpawnAnimal true]
-[12:17:02] [Server thread/INFO]: king_awesome4 issued server command: /mw setflag skyblock SpawnAnimal true
-[12:17:11] [Server thread/INFO]: king_awesome4 issued server command: /mw setflag skyblock RememberSpawn true
-[12:17:28] [Server thread/INFO]: king_awesome4 issued server command: /mw setflag skyblock SendChat true
-[12:17:30] [Server thread/INFO]: [0;34;1m[[0;31;22mMultiWorld[0;34;1m] [0;36;22mCONSOLE: Saved automaticly[m
-[12:17:37] [Server thread/INFO]: king_awesome4 issued server command: /mw setflag skyblock RecieveChat true
-[12:18:42] [Server thread/INFO]: king_awesome4 issued server command: /give king_awesome4 minecraft:command_block
-[12:18:42] [Server thread/INFO]: [king_awesome4: Given [Command Block] * 1 to king_awesome4]
-[12:18:58] [Server thread/INFO]: king_awesome4 issued server command: /give king_awesome4 command_block
-[12:18:58] [Server thread/INFO]: [king_awesome4: Given [Command Block] * 1 to king_awesome4]
-[12:19:12] [Server thread/INFO]: king_awesome4 issued server command: /mw goto world
-[12:19:12] [Server thread/INFO]: [0;34;1m[[0;31;22mMultiWorld[0;34;1m] [0;36;22mking_awesome4: Moved player king_awesome4 to world world[m
-[12:20:27] [Server thread/INFO]: king_awesome4 issued server command: /mw reload skyblock
-[12:22:09] [Server thread/INFO]: king_awesome4 lost connection: Disconnected
-[12:22:09] [Server thread/INFO]: king_awesome4 left the game.
-[12:22:26] [User Authenticator #3/INFO]: UUID of player king_awesome4 is 25cd2094-e0c3-4a8d-8269-eabf0c20a240
-[12:22:26] [Server thread/INFO]: king_awesome4[/192.168.1.1:64321] logged in with entity id 8258 at ([creative]-34.67263018449044, 37.0, 1.9068733007921979)
-[12:23:24] [Server thread/INFO]: king_awesome4 issued server command: /mw reload skyblock
-[12:25:59] [Server thread/INFO]: king_awesome4 issued server command: /weather clear
-[12:25:59] [Server thread/INFO]: [king_awesome4: Changing to clear weather]
-[12:26:11] [Server thread/INFO]: king_awesome4 issued server command: /time set day
-[12:26:11] [Server thread/INFO]: [king_awesome4: Set the time to 1000]
-[12:26:26] [Server thread/INFO]: king_awesome4 lost connection: Disconnected
-[12:26:26] [Server thread/INFO]: king_awesome4 left the game.
-[12:26:52] [Server thread/INFO]: Stopping the server
-[12:26:52] [Server thread/INFO]: Stopping server
-[12:26:52] [Server thread/INFO]: [CreativeGates] Disabling CreativeGates v2.8.7Beta
-[12:26:52] [Server thread/INFO]: [0;36;22m[[0;36;1mCreativeGates 2.8.7Beta[0;36;22m] [0;33;1mDisabled[m
-[12:26:52] [Server thread/INFO]: [MassiveCore] Disabling MassiveCore v2.8.7Beta
-[12:26:52] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1mDisabled[m
-[12:26:52] [Server thread/INFO]: [WorldBorder] Disabling WorldBorder v1.8.5
-[12:26:52] [Server thread/INFO]: [WorldBorder] [CONFIG] Border-checking timed task stopped.
-[12:26:52] [Server thread/INFO]: [MultiWorld] Disabling MultiWorld v5.2.6
-[12:26:52] [Server thread/INFO]: [MultiWorld] Disabled.
-[12:26:52] [Server thread/INFO]: Saving players
-[12:26:52] [Server thread/INFO]: Saving worlds
-[12:26:52] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[12:26:52] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
-[12:26:52] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
-[12:26:52] [Server thread/INFO]: Saving chunks for level 'creative'/Overworld
-[12:26:52] [Server thread/INFO]: Saving chunks for level 'skyblock'/Overworld
-[12:26:52] [Server thread/INFO]: Saving chunks for level 'survival'/Overworld
+[13:36:44] [Server thread/INFO]: king_awesome4 issued server command: /gamemode 2
+[13:36:44] [Server thread/INFO]: [king_awesome4: Set own game mode to Adventure Mode]
+[13:37:22] [Server thread/INFO]: king_awesome4 issued server command: /gamemode 1
+[13:37:22] [Server thread/INFO]: [king_awesome4: Set own game mode to Creative Mode]
+[13:37:34] [Thread-73/WARN]: Exception in thread "Thread-73" 
+[13:37:34] [Thread-73/WARN]: java.lang.NoClassDefFoundError: me/clip/placeholderapi/PlaceholderAPI
+[13:37:34] [Thread-73/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parseVars(VTParser.java:1561)
+[13:37:34] [Thread-73/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parse(VTParser.java:152)
+[13:37:34] [Thread-73/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser$1.run(VTParser.java:108)
+[13:37:34] [Thread-73/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[13:38:34] [Thread-74/WARN]: Exception in thread "Thread-74" 
+[13:38:34] [Thread-74/WARN]: java.lang.NoClassDefFoundError: me/clip/placeholderapi/PlaceholderAPI
+[13:38:34] [Thread-74/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parseVars(VTParser.java:1561)
+[13:38:34] [Thread-74/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parse(VTParser.java:152)
+[13:38:34] [Thread-74/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser$1.run(VTParser.java:108)
+[13:38:34] [Thread-74/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[13:38:48] [Server thread/INFO]: king_awesome4 issued server command: /gamemode 2
+[13:38:48] [Server thread/INFO]: [king_awesome4: Set own game mode to Adventure Mode]
+[13:38:54] [Server thread/INFO]: king_awesome4 issued server command: /gamemode 1
+[13:38:54] [Server thread/INFO]: [king_awesome4: Set own game mode to Creative Mode]
+[13:38:58] [Server thread/INFO]: king_awesome4 issued server command: /gamemode 2
+[13:38:58] [Server thread/INFO]: [king_awesome4: Set own game mode to Adventure Mode]
+[13:39:15] [Server thread/INFO]: king_awesome4 tried to swim in lava
+[13:39:35] [Thread-75/WARN]: Exception in thread "Thread-75" 
+[13:39:35] [Thread-75/WARN]: java.lang.NoClassDefFoundError: me/clip/placeholderapi/PlaceholderAPI
+[13:39:35] [Thread-75/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parseVars(VTParser.java:1561)
+[13:39:35] [Thread-75/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parse(VTParser.java:152)
+[13:39:35] [Thread-75/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser$1.run(VTParser.java:108)
+[13:39:35] [Thread-75/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[13:39:41] [Server thread/INFO]: king_awesome4 issued server command: /gamemode 1
+[13:39:41] [Server thread/INFO]: [king_awesome4: Set own game mode to Creative Mode]
+[13:40:35] [Thread-76/WARN]: Exception in thread "Thread-76" 
+[13:40:35] [Thread-76/WARN]: java.lang.NoClassDefFoundError: me/clip/placeholderapi/PlaceholderAPI
+[13:40:35] [Thread-76/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parseVars(VTParser.java:1561)
+[13:40:35] [Thread-76/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parse(VTParser.java:152)
+[13:40:35] [Thread-76/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser$1.run(VTParser.java:108)
+[13:40:35] [Thread-76/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[13:41:35] [Thread-77/WARN]: Exception in thread "Thread-77" 
+[13:41:35] [Thread-77/WARN]: java.lang.NoClassDefFoundError: me/clip/placeholderapi/PlaceholderAPI
+[13:41:35] [Thread-77/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parseVars(VTParser.java:1561)
+[13:41:35] [Thread-77/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parse(VTParser.java:152)
+[13:41:35] [Thread-77/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser$1.run(VTParser.java:108)
+[13:41:35] [Thread-77/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[13:42:06] [Server thread/INFO]: king_awesome4 issued server command: /stop
+[13:42:06] [Server thread/INFO]: [king_awesome4: Stopping the server]
+[13:42:06] [Server thread/INFO]: Stopping server
+[13:42:06] [Server thread/INFO]: [PVP Arena] Disabling pvparena v1.3.1.50
+[13:42:06] [Server thread/INFO]: [PVP Arena] Plugin tracking disabled. See you soon?
+[13:42:06] [Server thread/INFO]: [PVP Arena] disabled (version pvparena v1.3.1.50)
+[13:42:06] [Server thread/INFO]: [MultiWorld] Disabling MultiWorld v5.2.6
+[13:42:06] [Server thread/INFO]: [MultiWorld] Disabled.
+[13:42:06] [Server thread/INFO]: [SafeCreeper] Disabling SafeCreeper v1.5.2.5
+[13:42:06] [Server thread/ERROR]: Error occurred while disabling SafeCreeper v1.5.2.5 (Is it up to date?)
+java.lang.NullPointerException
+	at com.timvisee.safecreeper.SafeCreeper.onDisable(SafeCreeper.java:219) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:293) ~[spigot-1.9.jar:git-Spigot-86016ba-94ba824]
+	at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:364) [spigot-1.9.jar:git-Spigot-86016ba-94ba824]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:424) [spigot-1.9.jar:git-Spigot-86016ba-94ba824]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:417) [spigot-1.9.jar:git-Spigot-86016ba-94ba824]
+	at org.bukkit.craftbukkit.v1_9_R1.CraftServer.disablePlugins(CraftServer.java:340) [spigot-1.9.jar:git-Spigot-86016ba-94ba824]
+	at net.minecraft.server.v1_9_R1.MinecraftServer.stop(MinecraftServer.java:454) [spigot-1.9.jar:git-Spigot-86016ba-94ba824]
+	at net.minecraft.server.v1_9_R1.MinecraftServer.run(MinecraftServer.java:595) [spigot-1.9.jar:git-Spigot-86016ba-94ba824]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_73]
+[13:42:06] [Server thread/INFO]: [VTV2] Disabling VariableTriggers v2
+[13:42:06] [Server thread/INFO]: [VTV2] [1;35mI don't want to go![0;37m
+[13:42:06] [Server thread/INFO]: [PlotSquared] Disabling PlotSquared v3.3.1
+[13:42:06] [Server thread/INFO]: [0;33;22mAll DB transactions during this session are being validated (This may take a while if corrections need to be made)[m
+[13:42:06] [Server thread/INFO]: [CreativeGates] Disabling CreativeGates v2.8.7Beta
+[13:42:06] [Server thread/INFO]: [0;36;22m[[0;36;1mCreativeGates 2.8.7Beta[0;36;22m] [0;33;1mDisabled[m
+[13:42:06] [Server thread/INFO]: [CombatLog] Disabling CombatLog v1.8.11-hack
+[13:42:06] [Server thread/INFO]: [CombatLog] CombatLog v1.8.11-hack Disabled.
+[13:42:06] [Server thread/INFO]: [Factions] Disabling Factions v2.8.7Beta
+[13:42:06] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.8.7Beta[0;36;22m] [0;33;1m[0;31;1mDeactivated Integration [0;35;1mIntegrationWorldGuard[m
+[13:42:06] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.8.7Beta[0;36;22m] [0;33;1m[0;31;1mDeactivated Integration [0;35;1mIntegrationSpigot[m
+[13:42:06] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.8.7Beta[0;36;22m] [0;33;1mDisabled[m
+[13:42:06] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
+[13:42:06] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[13:42:06] [Server thread/INFO]: [MassiveCore] Disabling MassiveCore v2.8.7Beta
+[13:42:06] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1m[0;31;1mDeactivated Integration [0;35;1mIntegrationVault[m
+[13:42:06] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1mDisabled[m
+[13:42:06] [Server thread/INFO]: [bPermissions] Disabling bPermissions v2.10.9m
+[13:42:06] [Server thread/INFO]: WEPIF: bPermissions detected! Using bPermissions for permissions
+[13:42:06] [Server thread/INFO]: [Vault][Permission] bPermissions2 un-hooked.
+[13:42:06] [Server thread/INFO]: [Vault][Chat] bPermissions2 un-hooked.
+[13:42:06] [Server thread/INFO]: [bPermissions] Disabled
+[13:42:06] [Server thread/INFO]: [LaggRemover] Disabling LaggRemover v0.2.2
+[13:42:06] [Server thread/INFO]: [LaggRemover] LaggRemover has been disabled!
+[13:42:06] [Server thread/INFO]: [Vault] Disabling Vault v1.5.6-b49
+[13:42:06] [Server thread/INFO]: [Buycraft] Disabling Buycraft v6.8.2
+[13:42:06] [Server thread/INFO]: [Buycraft] Plugin has been disabled.
+[13:42:06] [Server thread/INFO]: [HealthBar] Disabling HealthBar v1.8.3
+[13:42:06] [Server thread/INFO]: HealthBar disabled, all the health bars have been removed.
+[13:42:06] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[13:42:06] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v2.12.0
+[13:42:06] [Server thread/INFO]: Saving players
+[13:42:06] [Server thread/INFO]: king_awesome4 lost connection: Server closed
+[13:42:06] [Server thread/INFO]: king_awesome4 left the game.
+[13:42:07] [Server thread/INFO]: Saving worlds
+[13:42:07] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[13:42:07] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[13:42:07] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
+[13:42:07] [Server thread/INFO]: Saving chunks for level 'creative'/Overworld
+[13:42:07] [Server thread/INFO]: Saving chunks for level 'skyblock'/Overworld
+[13:42:07] [Server thread/INFO]: Saving chunks for level 'survival'/Overworld

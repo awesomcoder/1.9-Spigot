@@ -1,0 +1,12 @@
+Worlds:
+- some_world_here
+- some_other_world_here
+Cooldown: 0
+Cancelled: false
+SomeCommand:
+  Script:
+  - '@COMMAND'
+  - '@COMMAND'
+  Cooldown: 0
+main:
+- '@COMMAND'
