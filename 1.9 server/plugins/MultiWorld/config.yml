@@ -34,8 +34,9 @@ worlds:
     difficulty: NORMAL
     autoload: true
     flags:
-      PVP: false
-      CREATIVEWORLD: false
+      CREATIVEWORLD: true
+      RECIEVECHAT: false
+      SENDCHAT: false
   survival:
     seed: 3126371312980075789
     worldgen: Normal
