@@ -100,9 +100,9 @@ Fine:
 # Set Armor to true to drop players' armor when they CombatLog.
 # Set Exp to true to drop players' experience points when they CombatLog.
 Drop:
-  Inventory: true
-  Armor: true
-  Exp: true
+  Inventory: false
+  Armor: false
+  Exp: false
 
 # Set Enabled to true to kill players when they CombatLog.
 Kill:

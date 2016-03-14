@@ -1,0 +1,59 @@
+{
+  "creatorId": "25cd2094-e0c3-4a8d-8269-eabf0c20a240",
+  "createdMillis": 1457891890662,
+  "usedMillis": 1457909847430,
+  "networkId": "Survival",
+  "restricted": false,
+  "enterEnabled": true,
+  "exitEnabled": true,
+  "exit": {
+    "w": "survival",
+    "lx": -5.277232219486113,
+    "ly": 110.0,
+    "lz": -13.33376691439835,
+    "p": 0.0,
+    "y": 270.0
+  },
+  "coords": [
+    {
+      "bx": -7,
+      "by": 110,
+      "bz": -14
+    },
+    {
+      "bx": -7,
+      "by": 111,
+      "bz": -15
+    },
+    {
+      "bx": -7,
+      "by": 111,
+      "bz": -14
+    },
+    {
+      "bx": -7,
+      "by": 111,
+      "bz": -13
+    },
+    {
+      "bx": -7,
+      "by": 112,
+      "bz": -15
+    },
+    {
+      "bx": -7,
+      "by": 112,
+      "bz": -14
+    },
+    {
+      "bx": -7,
+      "by": 112,
+      "bz": -13
+    },
+    {
+      "bx": -7,
+      "by": 113,
+      "bz": -14
+    }
+  ]
+}

@@ -7,3 +7,19 @@ users:
     permissions: []
     groups:
     - default
+  2e22fd2c-f8de-47a4-9dcd-9fafd07332a1:
+    permissions: []
+    groups:
+    - default
+  015cc121-0b57-4378-bc65-8be8903ba5cb:
+    permissions: []
+    groups:
+    - default
+  3e3a4970-050c-4321-854b-bd873362f2e9:
+    permissions: []
+    groups:
+    - default
+  f43ebc66-d0f3-4876-b08d-31e173aabccc:
+    permissions: []
+    groups:
+    - default

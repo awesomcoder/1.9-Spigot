@@ -15,24 +15,17 @@ options:
   craftbukkitHooks: true
 worlds:
   creative:
-    seed: 0
+    seed: -7686741823858791400
     worldgen: Normal
     options: ''
-    difficulty: PEACEFUL
+    difficulty: NORMAL
     autoload: true
-    flags:
-      SPAWNMONSTER: false
-      SPAWNANIMAL: false
-      PVP: true
-      CREATIVEWORLD: true
-      RECIEVECHAT: false
-      SENDCHAT: false
   skyblock:
     seed: -8157919679050269377
     worldgen: Normal
     options: ''
     difficulty: NORMAL
-    autoload: true
+    autoload: false
     flags:
       CREATIVEWORLD: true
       RECIEVECHAT: false
