@@ -14,12 +14,6 @@ options:
   useWorldChatSeperator: false
   craftbukkitHooks: true
 worlds:
-  creative:
-    seed: -7686741823858791400
-    worldgen: Normal
-    options: ''
-    difficulty: NORMAL
-    autoload: true
   skyblock:
     seed: -8157919679050269377
     worldgen: Normal

@@ -1,228 +1,249 @@
-[18:59:09] [Server thread/INFO]: Starting minecraft server version 1.9
-[18:59:09] [Server thread/INFO]: Loading properties
-[18:59:09] [Server thread/INFO]: Default game type: ADVENTURE
-[18:59:09] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-86016ba-94ba824 (MC: 1.9) (Implementing API version 1.9-R0.1-SNAPSHOT)
-[18:59:09] [Server thread/INFO]: Debug logging is disabled
-[18:59:09] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:59:09] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:59:09] [Server thread/INFO]: Generating keypair
-[18:59:09] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:59:09] [Server thread/INFO]: Using default channel type
-[18:59:10] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[18:59:10] [Server thread/INFO]: [INFO][NoCheatPlus] Sun Mar 13 18:59:10 EDT 2016
-[18:59:10] [Server thread/INFO]: Player instances are stored for efficiency.
-[18:59:10] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.12.0
-[18:59:10] [Server thread/INFO]: [NoCheatPlus] Loading NoCheatPlus v3.14.0-SNAPSHOT-sMD5NET-b942
-[18:59:10] [Server thread/INFO]: onLoad: Early set up of static API, configuration, logging.
-[18:59:10] [Server thread/INFO]: [NoCheatPlus] Logging system initialized.
-[18:59:10] [Server thread/INFO]: [NoCheatPlus] Detected Minecraft version: 1.9
-[18:59:10] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
-[18:59:10] [Server thread/INFO]: [HealthBar] Loading HealthBar v1.8.3
-[18:59:10] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
-[18:59:10] [Server thread/INFO]: [bPermissions] Loading bPermissions v2.10.9m
-[18:59:10] [Server thread/INFO]: [MassiveCore] Loading MassiveCore v2.8.7Beta
-[18:59:10] [Server thread/INFO]: TimeUnit.MILLIS_PER_MINUTE: 60000
-[18:59:10] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
-[18:59:10] [Server thread/INFO]: [Factions] Loading Factions v2.8.7Beta
-[18:59:10] [Server thread/INFO]: [CombatLog] Loading CombatLog v1.8.11-hack
-[18:59:10] [Server thread/INFO]: [CreativeGates] Loading CreativeGates v2.8.7Beta
-[18:59:10] [Server thread/INFO]: [PlotSquared] Loading PlotSquared v3.3.1
-[18:59:10] [Server thread/INFO]: [VTV2] Loading VariableTriggers v2
-[18:59:10] [Server thread/INFO]: [MultiWorld] Loading MultiWorld v5.2.6
-[18:59:10] [Server thread/INFO]: [PVP Arena] Loading pvparena v1.3.1.50
-[18:59:10] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
-[18:59:10] [Server thread/INFO]: [Vault][Permission] bPermissions2 hooked.
-[18:59:10] [Server thread/INFO]: [Vault] [Permission] bPermissions 2 found: Loaded
-[18:59:10] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[18:59:10] [Server thread/INFO]: [Vault][Chat] bPermissions2 hooked.
-[18:59:10] [Server thread/INFO]: [Vault] [Chat] bPermssions2 found: Loaded
-[18:59:10] [Server thread/INFO]: [Vault] Enabled Version 1.5.6-b49
-[18:59:10] [Server thread/INFO]: [MassiveCore] Enabling MassiveCore v2.8.7Beta
-[18:59:10] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1m=== ENABLE START ===[m
-[18:59:10] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1m[0;33;1mLoading Cachefile datas...[m
-[18:59:10] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1m[0;33;1mLoading Onlineplayer datas...[m
-[18:59:10] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1m[0;33;1mLoading Registry datas...[m
-[18:59:10] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1m[0;33;1mSaving Cachefile...[m
-[18:59:10] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1m[0;33;1mSetup of IdUtil took [0;35;1m21[0;33;1mms.[m
-[18:59:11] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1m[0;32;1mActivated Integration [0;35;1mIntegrationVault[m
-[18:59:11] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1m=== ENABLE [0;32;1mCOMPLETE [0;33;1m(Took [0;35;1m286ms[0;33;1m) ===[m
-[18:59:11] [Server thread/INFO]: [PlotSquared] Enabling PlotSquared v3.3.1
-[18:59:11] [Server thread/INFO]: $1PlotSquared is now enabled[m
-[18:59:11] [Server thread/INFO]: $3[$1P2$3] $2&6Debug Mode Enabled (Default). Edit the config to turn this off.[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mgreeting[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mfarewell[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mfeed[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mheal[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mnotify-enter[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mnotify-leave[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mitem-drop[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22minvincible[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22minstabreak[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mdrop-protection[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mforcefield[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mtitles[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mpve[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mpvp[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mno-worldedit[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mredstone[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mmisc-cap[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mentity-cap[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mmob-cap[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22manimal-cap[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mhostile-cap[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mvehicle-cap[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mmusic[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mdone[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22manalysis[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mdisable-physics[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mfly[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mexplosion[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mmob-place[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mhostile-interact[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mhostile-attack[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22manimal-interact[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22manimal-attack[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mtamed-interact[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mtamed-attack[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mplayer-interact[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mmisc-interact[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mmisc-place[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mmisc-break[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mhanging-interact[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mhanging-place[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mhanging-break[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mvehicle-use[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mvehicle-place[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mvehicle-break[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mdevice-interact[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mplace[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mbreak[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22muse[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mblocked-cmds[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mice-melt[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mkeep[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mgamemode[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mprice[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mtime[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mweather[m
-[18:59:11] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mdescription[m
-[18:59:12] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;33;22mMetrics enabled.[m
-[18:59:12] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m [0;33;22mPlotSquared is using online UUIDs[m
-[18:59:12] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;31;1mKey: [0;33;22mAPI Location[0;31;1m, Value: [0;33;22mhttp://www.intellectualsites.com/minecraft.php[m
-[18:59:12] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;31;1mKey: [0;33;22mKill Road Mobs[0;31;1m, Value: [0;33;22mfalse[m
-[18:59:12] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;31;1mKey: [0;33;22mUse Metrics[0;31;1m, Value: [0;33;22mtrue[m
-[18:59:12] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;31;1mKey: [0;33;22mDelete Plots On Ban[0;31;1m, Value: [0;33;22mfalse[m
-[18:59:12] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;31;1mKey: [0;33;22mDB SQLite Enabled[0;31;1m, Value: [0;33;22mtrue[m
-[18:59:12] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;31;1mKey: [0;33;22mDB Mysql Enabled[0;31;1m, Value: [0;33;22mfalse[m
-[18:59:12] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;31;1mKey: [0;33;22mAuto Clear Enabled[0;31;1m, Value: [0;33;22mtrue[m
-[18:59:12] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;31;1mKey: [0;33;22mAuto Clear Days[0;31;1m, Value: [0;33;22m7[m
-[18:59:12] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;31;1mKey: [0;33;22mSchematics Save Path[0;31;1m, Value: [0;33;22mschematics[m
-[18:59:12] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[18:59:12] [Server thread/INFO]: Preparing level "world"
-[18:59:12] [Server thread/INFO]: -------- World Settings For [world] --------
-[18:59:12] [Server thread/INFO]: Item Merge Radius: 2.5
-[18:59:12] [Server thread/INFO]: Item Despawn Rate: 6000
-[18:59:12] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[18:59:12] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[18:59:12] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[18:59:12] [Server thread/INFO]: View Distance: 16
-[18:59:12] [Server thread/INFO]: Experience Merge Radius: 3.0
-[18:59:12] [Server thread/INFO]: Max Entity Collisions: 8
-[18:59:12] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[18:59:12] [Server thread/INFO]: Mob Spawn Range: 4
-[18:59:12] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[18:59:12] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[18:59:12] [Server thread/INFO]: Cane Growth Modifier: 100%
-[18:59:12] [Server thread/INFO]: Melon Growth Modifier: 100%
-[18:59:12] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[18:59:12] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[18:59:12] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[18:59:12] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[18:59:12] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[18:59:12] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[18:59:12] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[18:59:12] [Server thread/INFO]: Max TNT Explosions: 100
-[18:59:12] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[18:59:12] [Server thread/INFO]: Structure Info Saving: true
-[18:59:12] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[18:59:12] [Server thread/INFO]: Random Lighting Updates: false
-[18:59:12] [Server thread/INFO]: BukkitPlotGenerator does not fully support: null[m
-[18:59:13] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[18:59:13] [Server thread/INFO]: Item Merge Radius: 2.5
-[18:59:13] [Server thread/INFO]: Item Despawn Rate: 6000
-[18:59:13] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[18:59:13] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[18:59:13] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[18:59:13] [Server thread/INFO]: View Distance: 16
-[18:59:13] [Server thread/INFO]: Experience Merge Radius: 3.0
-[18:59:13] [Server thread/INFO]: Max Entity Collisions: 8
-[18:59:13] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[18:59:13] [Server thread/INFO]: Mob Spawn Range: 4
-[18:59:13] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[18:59:13] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[18:59:13] [Server thread/INFO]: Cane Growth Modifier: 100%
-[18:59:13] [Server thread/INFO]: Melon Growth Modifier: 100%
-[18:59:13] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[18:59:13] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[18:59:13] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[18:59:13] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[18:59:13] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[18:59:13] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[18:59:13] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[18:59:13] [Server thread/INFO]: Max TNT Explosions: 100
-[18:59:13] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[18:59:13] [Server thread/INFO]: Structure Info Saving: true
-[18:59:13] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[18:59:13] [Server thread/INFO]: Random Lighting Updates: false
-[18:59:13] [Server thread/INFO]: BukkitPlotGenerator does not fully support: null[m
-[18:59:13] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[18:59:13] [Server thread/INFO]: Item Merge Radius: 2.5
-[18:59:13] [Server thread/INFO]: Item Despawn Rate: 6000
-[18:59:13] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[18:59:13] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[18:59:13] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[18:59:13] [Server thread/INFO]: View Distance: 16
-[18:59:13] [Server thread/INFO]: Experience Merge Radius: 3.0
-[18:59:13] [Server thread/INFO]: Max Entity Collisions: 8
-[18:59:13] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[18:59:13] [Server thread/INFO]: Mob Spawn Range: 4
-[18:59:13] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[18:59:13] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[18:59:13] [Server thread/INFO]: Cane Growth Modifier: 100%
-[18:59:13] [Server thread/INFO]: Melon Growth Modifier: 100%
-[18:59:13] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[18:59:13] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[18:59:13] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[18:59:13] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[18:59:13] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[18:59:13] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[18:59:13] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[18:59:13] [Server thread/INFO]: Max TNT Explosions: 100
-[18:59:13] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[18:59:13] [Server thread/INFO]: Structure Info Saving: true
-[18:59:13] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[18:59:13] [Server thread/INFO]: Random Lighting Updates: false
-[18:59:13] [Server thread/INFO]: BukkitPlotGenerator does not fully support: null[m
-[18:59:13] [Server thread/INFO]: Preparing start region for level 0 (Seed: 1461928132)
-[18:59:14] [Server thread/INFO]: Preparing spawn area: 59%
-[18:59:14] [Server thread/INFO]: Preparing start region for level 1 (Seed: 1461928132)
-[18:59:15] [Server thread/INFO]: Preparing start region for level 2 (Seed: 1461928132)
-[18:59:15] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.12.0
-[18:59:15] [Server thread/INFO]: CoreProtect version 2.12.0 is enabled!
-[18:59:15] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
-[18:59:15] [Server thread/INFO]: [NoCheatPlus] Enabling NoCheatPlus v3.14.0-SNAPSHOT-sMD5NET-b942
-[18:59:15] [Server thread/INFO]: [NoCheatPlus] McAccess set to: 1.9 / Spigot-CB-1.9_R1
-[18:59:15] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.5 blocks.
-[18:59:15] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.6.1 blocks.
-[18:59:15] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.7.2 blocks.
-[18:59:15] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.8 blocks.
-[18:59:15] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.9 blocks.
-[18:59:15] [Server thread/INFO]: [NoCheatPlus] Inventory checks: FastConsume is available, disabled InstantEat.
-[18:59:15] [Server thread/INFO]: [NoCheatPlus] Packet level access: ProtocolLib is not available.
-[18:59:15] [Server thread/INFO]: [NoCheatPlus] Version 3.14.0-SNAPSHOT-sMD5NET-b942 is enabled.
-[18:59:16] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
-[18:59:16] [Server thread/INFO]: WEPIF: bPermissions detected! Using bPermissions for permissions
-[18:59:16] [Server thread/WARN]: [WorldEdit] 
+[15:38:58] [Server thread/INFO]: Starting minecraft server version 1.9
+[15:38:58] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[15:38:58] [Server thread/INFO]: Loading properties
+[15:38:59] [Server thread/INFO]: Default game type: ADVENTURE
+[15:38:59] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-86016ba-94ba824 (MC: 1.9) (Implementing API version 1.9-R0.1-SNAPSHOT)
+[15:39:00] [Server thread/INFO]: Debug logging is disabled
+[15:39:00] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:39:00] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:39:00] [Server thread/INFO]: Generating keypair
+[15:39:01] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:39:01] [Server thread/INFO]: Using default channel type
+[15:39:08] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[15:39:09] [Server thread/INFO]: [INFO][NoCheatPlus] Mon Mar 14 15:39:09 EDT 2016
+[15:39:09] [Server thread/INFO]: Player instances are stored for efficiency.
+[15:39:17] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.12.0
+[15:39:17] [Server thread/INFO]: [NoCheatPlus] Loading NoCheatPlus v3.14.0-SNAPSHOT-sMD5NET-b942
+[15:39:17] [Server thread/INFO]: onLoad: Early set up of static API, configuration, logging.
+[15:39:19] [Server thread/INFO]: [NoCheatPlus] Logging system initialized.
+[15:39:19] [Server thread/INFO]: [NoCheatPlus] Detected Minecraft version: 1.9
+[15:39:19] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[15:39:19] [Server thread/INFO]: [HealthBar] Loading HealthBar v1.8.3
+[15:39:19] [Server thread/INFO]: [TerrainControl] Loading TerrainControl v2.8.0-SNAPSHOT
+[15:39:19] [Server thread/INFO]: [Buycraft] Loading Buycraft v6.8.2
+[15:39:19] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
+[15:39:19] [Server thread/INFO]: [FreeTeleport] Loading FreeTeleport v3.5
+[15:39:19] [Server thread/INFO]: [bPermissions] Loading bPermissions v2.10.9m
+[15:39:19] [Server thread/INFO]: [MassiveCore] Loading MassiveCore v2.8.7Beta
+[15:39:19] [Server thread/INFO]: TimeUnit.MILLIS_PER_MINUTE: 60000
+[15:39:19] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[15:39:19] [Server thread/INFO]: [Factions] Loading Factions v2.8.7Beta
+[15:39:19] [Server thread/INFO]: [CombatLog] Loading CombatLog v1.8.11-hack
+[15:39:19] [Server thread/INFO]: [CreativeGates] Loading CreativeGates v2.8.7Beta
+[15:39:19] [Server thread/INFO]: [PlotSquared] Loading PlotSquared v3.3.1
+[15:39:19] [Server thread/INFO]: [VTV2] Loading VariableTriggers v2
+[15:39:19] [Server thread/INFO]: [MultiWorld] Loading MultiWorld v5.2.6
+[15:39:19] [Server thread/INFO]: [PVP Arena] Loading pvparena v1.3.1.50
+[15:39:19] [Server thread/INFO]: [TerrainControl] Enabling TerrainControl v2.8.0-SNAPSHOT
+[15:39:22] [Server thread/INFO]: [TerrainControl] 22 Global custom objects loaded
+[15:39:22] [Server thread/INFO]: [TerrainControl] Global objects loaded, waiting for worlds to load
+[15:39:22] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
+[15:39:22] [Server thread/INFO]: [Vault][Permission] bPermissions2 hooked.
+[15:39:22] [Server thread/INFO]: [Vault] [Permission] bPermissions 2 found: Loaded
+[15:39:22] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[15:39:22] [Server thread/INFO]: [Vault][Chat] bPermissions2 hooked.
+[15:39:22] [Server thread/INFO]: [Vault] [Chat] bPermssions2 found: Loaded
+[15:39:22] [Server thread/INFO]: [Vault] Enabled Version 1.5.6-b49
+[15:39:22] [Server thread/INFO]: [MassiveCore] Enabling MassiveCore v2.8.7Beta
+[15:39:22] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1m=== ENABLE START ===[m
+[15:39:23] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1m[0;33;1mLoading Cachefile datas...[m
+[15:39:24] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1m[0;33;1mLoading Onlineplayer datas...[m
+[15:39:24] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1m[0;33;1mLoading Registry datas...[m
+[15:39:24] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1m[0;33;1mSaving Cachefile...[m
+[15:39:24] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1m[0;33;1mSetup of IdUtil took [0;35;1m683[0;33;1mms.[m
+[15:39:28] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1m[0;32;1mActivated Integration [0;35;1mIntegrationVault[m
+[15:39:28] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1m=== ENABLE [0;32;1mCOMPLETE [0;33;1m(Took [0;35;1m6186ms[0;33;1m) ===[m
+[15:39:28] [Server thread/INFO]: [PlotSquared] Enabling PlotSquared v3.3.1
+[15:39:29] [Server thread/INFO]: $1PlotSquared is now enabled[m
+[15:39:30] [Server thread/INFO]: $3[$1P2$3] $2&6Debug Mode Enabled (Default). Edit the config to turn this off.[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mgreeting[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mfarewell[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mfeed[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mheal[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mnotify-enter[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mnotify-leave[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mitem-drop[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22minvincible[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22minstabreak[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mdrop-protection[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mforcefield[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mtitles[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mpve[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mpvp[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mno-worldedit[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mredstone[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mmisc-cap[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mentity-cap[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mmob-cap[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22manimal-cap[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mhostile-cap[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mvehicle-cap[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mmusic[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mdone[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22manalysis[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mdisable-physics[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mfly[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mexplosion[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mmob-place[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mhostile-interact[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mhostile-attack[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22manimal-interact[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22manimal-attack[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mtamed-interact[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mtamed-attack[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mplayer-interact[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mmisc-interact[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mmisc-place[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mmisc-break[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mhanging-interact[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mhanging-place[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mhanging-break[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mvehicle-use[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mvehicle-place[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mvehicle-break[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mdevice-interact[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mplace[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mbreak[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22muse[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mblocked-cmds[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mice-melt[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mkeep[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mgamemode[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mprice[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mtime[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mweather[m
+[15:39:30] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;30;1m - Adding flag: [0;37;22mdescription[m
+[15:39:32] [User Authenticator #1/INFO]: UUID of player EarthGuardian32 is 4fa6fe79-b82c-4d14-87ee-f516ebc46da3
+[15:39:37] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;33;22mMetrics enabled.[m
+[15:39:37] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m [0;33;22mPlotSquared is using online UUIDs[m
+[15:39:38] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;31;1mKey: [0;33;22mAPI Location[0;31;1m, Value: [0;33;22mhttp://www.intellectualsites.com/minecraft.php[m
+[15:39:38] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;31;1mKey: [0;33;22mKill Road Mobs[0;31;1m, Value: [0;33;22mfalse[m
+[15:39:38] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;31;1mKey: [0;33;22mUse Metrics[0;31;1m, Value: [0;33;22mtrue[m
+[15:39:38] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;31;1mKey: [0;33;22mDelete Plots On Ban[0;31;1m, Value: [0;33;22mfalse[m
+[15:39:38] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;31;1mKey: [0;33;22mDB SQLite Enabled[0;31;1m, Value: [0;33;22mtrue[m
+[15:39:38] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;31;1mKey: [0;33;22mDB Mysql Enabled[0;31;1m, Value: [0;33;22mfalse[m
+[15:39:38] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;31;1mKey: [0;33;22mAuto Clear Enabled[0;31;1m, Value: [0;33;22mtrue[m
+[15:39:38] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;31;1mKey: [0;33;22mAuto Clear Days[0;31;1m, Value: [0;33;22m7[m
+[15:39:38] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;31;1mKey: [0;33;22mSchematics Save Path[0;31;1m, Value: [0;33;22mschematics[m
+[15:39:38] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[15:39:38] [Server thread/INFO]: Preparing level "world"
+[15:39:38] [Server thread/INFO]: -------- World Settings For [world] --------
+[15:39:38] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:39:38] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:39:38] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:39:38] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:39:38] [Server thread/INFO]: View Distance: 16
+[15:39:38] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:39:38] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:39:38] [Server thread/INFO]: Max Entity Collisions: 8
+[15:39:38] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:39:38] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:39:38] [Server thread/INFO]: Mob Spawn Range: 4
+[15:39:38] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:39:38] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:39:38] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:39:38] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:39:38] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:39:38] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:39:38] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:39:38] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:39:38] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:39:38] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:39:38] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:39:38] [Server thread/INFO]: Random Lighting Updates: false
+[15:39:38] [Server thread/INFO]: Structure Info Saving: true
+[15:39:38] [Server thread/INFO]: Max TNT Explosions: 100
+[15:39:38] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:39:38] [Server thread/INFO]: BukkitPlotGenerator does not fully support: null[m
+[15:39:39] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[15:39:39] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:39:39] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:39:39] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:39:39] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:39:39] [Server thread/INFO]: View Distance: 16
+[15:39:39] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:39:39] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:39:39] [Server thread/INFO]: Max Entity Collisions: 8
+[15:39:39] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:39:39] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:39:39] [Server thread/INFO]: Mob Spawn Range: 4
+[15:39:39] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:39:39] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:39:39] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:39:39] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:39:39] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:39:39] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:39:39] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:39:39] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:39:39] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:39:39] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:39:39] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:39:39] [Server thread/INFO]: Random Lighting Updates: false
+[15:39:39] [Server thread/INFO]: Structure Info Saving: true
+[15:39:39] [Server thread/INFO]: Max TNT Explosions: 100
+[15:39:39] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:39:39] [Server thread/INFO]: BukkitPlotGenerator does not fully support: null[m
+[15:39:39] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[15:39:39] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:39:39] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:39:39] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:39:39] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:39:39] [Server thread/INFO]: View Distance: 16
+[15:39:39] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:39:39] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:39:39] [Server thread/INFO]: Max Entity Collisions: 8
+[15:39:39] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:39:39] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:39:39] [Server thread/INFO]: Mob Spawn Range: 4
+[15:39:39] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:39:39] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:39:39] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:39:39] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:39:39] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:39:39] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:39:39] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:39:39] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:39:39] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:39:39] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:39:39] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:39:39] [Server thread/INFO]: Random Lighting Updates: false
+[15:39:39] [Server thread/INFO]: Structure Info Saving: true
+[15:39:39] [Server thread/INFO]: Max TNT Explosions: 100
+[15:39:39] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:39:39] [Server thread/INFO]: BukkitPlotGenerator does not fully support: null[m
+[15:39:39] [Server thread/INFO]: Preparing start region for level 0 (Seed: 1461928132)
+[15:39:40] [Server thread/INFO]: Preparing spawn area: 4%
+[15:39:41] [Server thread/INFO]: Preparing spawn area: 10%
+[15:39:42] [Server thread/INFO]: Preparing spawn area: 14%
+[15:39:43] [Server thread/INFO]: Preparing spawn area: 19%
+[15:39:44] [Server thread/INFO]: Preparing spawn area: 21%
+[15:39:45] [Server thread/INFO]: Preparing spawn area: 25%
+[15:39:46] [Server thread/INFO]: Preparing spawn area: 29%
+[15:39:47] [Server thread/INFO]: Preparing spawn area: 33%
+[15:39:48] [Server thread/INFO]: Preparing spawn area: 38%
+[15:39:49] [Server thread/INFO]: Preparing spawn area: 50%
+[15:39:50] [Server thread/INFO]: Preparing spawn area: 72%
+[15:39:51] [Server thread/INFO]: Preparing start region for level 1 (Seed: 1461928132)
+[15:39:52] [Server thread/INFO]: Preparing spawn area: 30%
+[15:39:53] [Server thread/INFO]: Preparing spawn area: 53%
+[15:39:54] [Server thread/INFO]: Preparing spawn area: 68%
+[15:39:55] [Server thread/INFO]: Preparing start region for level 2 (Seed: 1461928132)
+[15:39:56] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.12.0
+[15:39:56] [Server thread/INFO]: CoreProtect version 2.12.0 is enabled!
+[15:39:56] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[15:39:56] [Server thread/INFO]: [NoCheatPlus] Enabling NoCheatPlus v3.14.0-SNAPSHOT-sMD5NET-b942
+[15:39:57] [Server thread/INFO]: [NoCheatPlus] McAccess set to: 1.9 / Spigot-CB-1.9_R1
+[15:39:57] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.5 blocks.
+[15:39:57] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.6.1 blocks.
+[15:39:57] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.7.2 blocks.
+[15:39:57] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.8 blocks.
+[15:39:57] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.9 blocks.
+[15:39:58] [Server thread/INFO]: [NoCheatPlus] Inventory checks: FastConsume is available, disabled InstantEat.
+[15:39:58] [Server thread/INFO]: [NoCheatPlus] Packet level access: ProtocolLib is not available.
+[15:39:58] [Server thread/INFO]: [NoCheatPlus] Version 3.14.0-SNAPSHOT-sMD5NET-b942 is enabled.
+[15:39:59] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[15:39:59] [Server thread/INFO]: WEPIF: bPermissions detected! Using bPermissions for permissions
+[15:39:59] [Server thread/WARN]: [WorldEdit] 
 **********************************************
 ** This WorldEdit version does not fully support your version of Bukkit.
 **
@@ -233,166 +254,143 @@
 ** Please see http://wiki.sk89q.com/wiki/WorldEdit/Bukkit_adapters
 **********************************************
 
-[18:59:16] [Server thread/INFO]: [HealthBar] Enabling HealthBar v1.8.3
-[18:59:16] [Server thread/INFO]: [bPermissions] Enabling bPermissions v2.10.9m
-[18:59:16] [Server thread/INFO]: WEPIF: bPermissions detected! Using bPermissions for permissions
-[18:59:16] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
-[18:59:16] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
-[18:59:16] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
-[18:59:16] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
-[18:59:16] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
-[18:59:16] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
-[18:59:16] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
-[18:59:16] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
-[18:59:16] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
-[18:59:16] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
-[18:59:16] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
-[18:59:16] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
-[18:59:16] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
-[18:59:16] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
-[18:59:16] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
-[18:59:16] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
-[18:59:16] [Server thread/INFO]: [WorldGuard] Loading region data...
-[18:59:16] [Server thread/INFO]: [Factions] Enabling Factions v2.8.7Beta
-[18:59:16] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.8.7Beta[0;36;22m] [0;33;1m=== ENABLE START ===[m
-[18:59:16] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.8.7Beta[0;36;22m] [0;33;1m[0;32;1mActivated Integration [0;35;1mIntegrationWorldGuard[m
-[18:59:16] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.8.7Beta[0;36;22m] [0;33;1m[0;32;1mActivated Integration [0;35;1mIntegrationSpigot[m
-[18:59:16] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.8.7Beta[0;36;22m] [0;33;1m=== ENABLE [0;32;1mCOMPLETE [0;33;1m(Took [0;35;1m192ms[0;33;1m) ===[m
-[18:59:16] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.8.7Beta[0;36;22m] [0;33;1m=== ENABLE [0;32;1mCOMPLETE [0;33;1m(Took [0;35;1m193ms[0;33;1m) ===[m
-[18:59:16] [Server thread/INFO]: [CombatLog] Enabling CombatLog v1.8.11-hack
-[18:59:16] [Server thread/INFO]: [CombatLog] Loading messages.properties.
-[18:59:16] [Server thread/INFO]: [CombatLog] Loading config.yml.
-[18:59:16] [Server thread/INFO]: [0;31;1m[CombatLog] DisguiseCraft plugin not found! Disguise removal will not work.[m
-[18:59:16] [Server thread/INFO]: [0;31;1m[CombatLog] Vault plugin not found! Fine Punishment will not work.[m
-[18:59:16] [Server thread/INFO]: [CombatLog] CombatLog v1.8.11-hack Enabled.
-[18:59:16] [Server thread/INFO]: [CreativeGates] Enabling CreativeGates v2.8.7Beta
-[18:59:16] [Server thread/INFO]: [0;36;22m[[0;36;1mCreativeGates 2.8.7Beta[0;36;22m] [0;33;1m=== ENABLE START ===[m
-[18:59:16] [Server thread/INFO]: [0;36;22m[[0;36;1mCreativeGates 2.8.7Beta[0;36;22m] [0;33;1m=== ENABLE [0;32;1mCOMPLETE [0;33;1m(Took [0;35;1m55ms[0;33;1m) ===[m
-[18:59:16] [Server thread/INFO]: [VTV2] Enabling VariableTriggers v2
-[18:59:16] [Server thread/INFO]: [VTV2] [1;35mVariableTriggers is preparing files...[0;37m
-[18:59:17] [Server thread/INFO]: [VTV2] [1;35mVTV2 is ready.[0;37m
-[18:59:17] [Server thread/INFO]: [MultiWorld] Enabling MultiWorld v5.2.6
-[18:59:17] [Thread-43/WARN]: Exception in thread "Thread-43" 
-[18:59:17] [Thread-43/WARN]: java.lang.NoClassDefFoundError: me/clip/placeholderapi/PlaceholderAPI
-[18:59:17] [Thread-43/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parseVars(VTParser.java:1561)
-[18:59:17] [Thread-43/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parse(VTParser.java:152)
-[18:59:17] [Thread-43/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser$1.run(VTParser.java:108)
-[18:59:17] [Thread-43/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[18:59:17] [Thread-43/WARN]: Caused by: java.lang.ClassNotFoundException: me.clip.placeholderapi.PlaceholderAPI
-[18:59:17] [Thread-43/WARN]: 	at java.net.URLClassLoader.findClass(Unknown Source)
-[18:59:17] [Thread-43/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:101)
-[18:59:17] [Thread-43/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:86)
-[18:59:17] [Thread-43/WARN]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
-[18:59:17] [Thread-43/WARN]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
-[18:59:17] [Thread-43/WARN]: 	... 4 more
-[18:59:17] [Server thread/INFO]: -------- World Settings For [creative] --------
-[18:59:17] [Server thread/INFO]: Item Merge Radius: 2.5
-[18:59:17] [Server thread/INFO]: Item Despawn Rate: 6000
-[18:59:17] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[18:59:17] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[18:59:17] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[18:59:17] [Server thread/INFO]: View Distance: 16
-[18:59:17] [Server thread/INFO]: Experience Merge Radius: 3.0
-[18:59:17] [Server thread/INFO]: Max Entity Collisions: 8
-[18:59:17] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[18:59:17] [Server thread/INFO]: Mob Spawn Range: 4
-[18:59:17] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[18:59:17] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[18:59:17] [Server thread/INFO]: Cane Growth Modifier: 100%
-[18:59:17] [Server thread/INFO]: Melon Growth Modifier: 100%
-[18:59:17] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[18:59:17] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[18:59:17] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[18:59:17] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[18:59:17] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[18:59:17] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[18:59:17] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[18:59:17] [Server thread/INFO]: Max TNT Explosions: 100
-[18:59:17] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[18:59:17] [Server thread/INFO]: Structure Info Saving: true
-[18:59:17] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[18:59:17] [Server thread/INFO]: Random Lighting Updates: false
-[18:59:17] [Server thread/INFO]: BukkitPlotGenerator does not fully support: null[m
-[18:59:17] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;32;1mDetected world load for 'creative'[m
-[18:59:17] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;36;22m - generator: [0;37;22mnull>PlotSquared[m
-[18:59:17] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;36;22m - plotworld: [0;37;22mcreative[m
-[18:59:17] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;36;22m - manager: [0;37;22mcom.intellectualcrafters.plot.generator.HybridPlotManager@4fb69ba[m
-[18:59:17] [Server thread/INFO]: Preparing start region for level 3 (Seed: 2371523840219235646)
-[18:59:18] [Server thread/INFO]: Preparing spawn area for creative, 28%
-[18:59:19] [Server thread/INFO]: [WorldGuard] (creative) TNT ignition is PERMITTED.
-[18:59:19] [Server thread/INFO]: [WorldGuard] (creative) Lighters are PERMITTED.
-[18:59:19] [Server thread/INFO]: [WorldGuard] (creative) Lava fire is blocked.
-[18:59:19] [Server thread/INFO]: [WorldGuard] (creative) Fire spread is UNRESTRICTED.
-[18:59:19] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'creative'
-[18:59:19] [Server thread/INFO]: -------- World Settings For [survival] --------
-[18:59:19] [Server thread/INFO]: Item Merge Radius: 2.5
-[18:59:19] [Server thread/INFO]: Item Despawn Rate: 6000
-[18:59:19] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[18:59:19] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[18:59:19] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[18:59:19] [Server thread/INFO]: View Distance: 16
-[18:59:19] [Server thread/INFO]: Experience Merge Radius: 3.0
-[18:59:19] [Server thread/INFO]: Max Entity Collisions: 8
-[18:59:19] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[18:59:19] [Server thread/INFO]: Mob Spawn Range: 4
-[18:59:19] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[18:59:19] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[18:59:19] [Server thread/INFO]: Cane Growth Modifier: 100%
-[18:59:19] [Server thread/INFO]: Melon Growth Modifier: 100%
-[18:59:19] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[18:59:19] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[18:59:19] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[18:59:19] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[18:59:19] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[18:59:19] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[18:59:19] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[18:59:19] [Server thread/INFO]: Max TNT Explosions: 100
-[18:59:19] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[18:59:19] [Server thread/INFO]: Structure Info Saving: true
-[18:59:19] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[18:59:19] [Server thread/INFO]: Random Lighting Updates: false
-[18:59:19] [Server thread/INFO]: BukkitPlotGenerator does not fully support: null[m
-[18:59:19] [Server thread/INFO]: Preparing start region for level 4 (Seed: 1935106320587638189)
-[18:59:20] [Server thread/INFO]: [WorldGuard] (survival) TNT ignition is PERMITTED.
-[18:59:20] [Server thread/INFO]: [WorldGuard] (survival) Lighters are PERMITTED.
-[18:59:20] [Server thread/INFO]: [WorldGuard] (survival) Lava fire is blocked.
-[18:59:20] [Server thread/INFO]: [WorldGuard] (survival) Fire spread is UNRESTRICTED.
-[18:59:20] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'survival'
-[18:59:20] [Server thread/INFO]: [MultiWorld] v5.2.6 enabled.
-[18:59:20] [Server thread/INFO]: [PVP Arena] Enabling pvparena v1.3.1.50
-[18:59:20] [Server thread/INFO]: [0;33;1m[PVP Arena[0;33;1m] [mdebugging: off[m
-[18:59:20] [Server thread/INFO]: [PVP Arena] Downloading module update file...
-[18:59:21] [Server thread/INFO]: [PVP Arena] Downloaded module update file
-[18:59:21] [Server thread/INFO]: [PVP Arena] enabled (version pvparena v1.3.1.50)
-[18:59:21] [Thread-44/INFO]: Checking for updates...
-[18:59:21] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:59:21] [Server thread/INFO]: Done (8.849s)! For help, type "help" or "?"
-[18:59:21] [Craft Scheduler Thread - 0/WARN]: Exception in thread "Craft Scheduler Thread - 0" 
-[18:59:21] [Server thread/INFO]: [bPermissions] Permissions for world survival has loaded!
-[18:59:21] [Server thread/INFO]: [bPermissions] Permissions for world world_nether has loaded!
-[18:59:21] [Craft Scheduler Thread - 0/WARN]: org.apache.commons.lang.UnhandledException: Plugin MultiWorld v5.2.6 generated an exception while executing task 58
-	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:56)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-Caused by: java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
-	at multiworld.metrics.Metrics.postPlugin(Metrics.java:372)
-	at multiworld.metrics.Metrics.access$400(Metrics.java:56)
-	at multiworld.metrics.Metrics$1.run(Metrics.java:238)
-	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftTask.run(CraftTask.java:71)
-	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
-	... 3 more
-
-[18:59:21] [Server thread/INFO]: [bPermissions] Permissions for world world_the_end has loaded!
-[18:59:21] [Server thread/INFO]: [bPermissions] Permissions for world * has loaded!
-[18:59:21] [Server thread/INFO]: [bPermissions] Permissions for world world has loaded!
-[18:59:21] [Server thread/INFO]: [NoCheatPlus] Post-enable running...
-[18:59:21] [Server thread/INFO]: [NoCheatPlus] Post-enable finished.
-[18:59:21] [Server thread/INFO]: [bPermissions] Permissions for world creative has loaded!
-[18:59:21] [Thread-44/INFO]: You are using [0;33;1mv1.3.1.50[0;37;1m, an outdated version! Latest: [0;32;1mv1.3.2.59[m
-[18:59:21] [Thread-44/INFO]: https://www.spigotmc.org/resources/pvp-arena.16584/[m
-[18:59:21] [Craft Scheduler Thread - 4/WARN]: Exception in thread "Craft Scheduler Thread - 4" 
-[18:59:21] [Craft Scheduler Thread - 4/WARN]: org.apache.commons.lang.UnhandledException: Plugin CombatLog v1.8.11-hack generated an exception while executing task 51
+[15:39:59] [Server thread/INFO]: [HealthBar] Enabling HealthBar v1.8.3
+[15:39:59] [Server thread/INFO]: [Buycraft] Enabling Buycraft v6.8.2
+[15:39:59] [Server thread/INFO]: [Buycraft] Loaded all signs from disk
+[15:39:59] [Server thread/INFO]: [FreeTeleport] Enabling FreeTeleport v3.5
+[15:39:59] [Server thread/INFO]: [FreeTeleport] Enabled
+[15:39:59] [Server thread/INFO]: [bPermissions] Enabling bPermissions v2.10.9m
+[15:39:59] [Server thread/INFO]: WEPIF: bPermissions detected! Using bPermissions for permissions
+[15:39:59] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[15:40:00] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[15:40:00] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[15:40:00] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[15:40:00] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[15:40:00] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[15:40:00] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[15:40:00] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[15:40:00] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
+[15:40:00] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[15:40:00] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[15:40:00] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[15:40:00] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[15:40:00] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
+[15:40:00] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[15:40:00] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[15:40:00] [Server thread/INFO]: [WorldGuard] Loading region data...
+[15:40:00] [Server thread/INFO]: [Factions] Enabling Factions v2.8.7Beta
+[15:40:00] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.8.7Beta[0;36;22m] [0;33;1m=== ENABLE START ===[m
+[15:40:02] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.8.7Beta[0;36;22m] [0;33;1m[0;32;1mActivated Integration [0;35;1mIntegrationWorldGuard[m
+[15:40:02] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.8.7Beta[0;36;22m] [0;33;1m[0;32;1mActivated Integration [0;35;1mIntegrationSpigot[m
+[15:40:02] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.8.7Beta[0;36;22m] [0;33;1m=== ENABLE [0;32;1mCOMPLETE [0;33;1m(Took [0;35;1m1126ms[0;33;1m) ===[m
+[15:40:02] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.8.7Beta[0;36;22m] [0;33;1m=== ENABLE [0;32;1mCOMPLETE [0;33;1m(Took [0;35;1m1126ms[0;33;1m) ===[m
+[15:40:02] [Server thread/INFO]: [CombatLog] Enabling CombatLog v1.8.11-hack
+[15:40:02] [Server thread/INFO]: [CombatLog] Loading messages.properties.
+[15:40:02] [Server thread/INFO]: [CombatLog] Loading config.yml.
+[15:40:02] [Server thread/INFO]: [0;31;1m[CombatLog] DisguiseCraft plugin not found! Disguise removal will not work.[m
+[15:40:02] [Server thread/INFO]: [0;31;1m[CombatLog] Vault plugin not found! Fine Punishment will not work.[m
+[15:40:02] [Server thread/INFO]: [CombatLog] CombatLog v1.8.11-hack Enabled.
+[15:40:02] [Server thread/INFO]: [CreativeGates] Enabling CreativeGates v2.8.7Beta
+[15:40:02] [Server thread/INFO]: [0;36;22m[[0;36;1mCreativeGates 2.8.7Beta[0;36;22m] [0;33;1m=== ENABLE START ===[m
+[15:40:02] [Server thread/INFO]: [0;36;22m[[0;36;1mCreativeGates 2.8.7Beta[0;36;22m] [0;33;1m=== ENABLE [0;32;1mCOMPLETE [0;33;1m(Took [0;35;1m200ms[0;33;1m) ===[m
+[15:40:02] [Server thread/INFO]: [VTV2] Enabling VariableTriggers v2
+[15:40:02] [Server thread/INFO]: [VTV2] [1;35mVariableTriggers is preparing files...[0;37m
+[15:40:02] [Server thread/ERROR]: Error occurred while enabling VariableTriggers v2 (Is it up to date?)
+java.lang.NullPointerException
+	at com.github.lyokofirelyte.VariableTriggers.VTSetup.scripts(VTSetup.java:217) ~[?:?]
+	at com.github.lyokofirelyte.VariableTriggers.VTSetup.start(VTSetup.java:149) ~[?:?]
+	at com.github.lyokofirelyte.VariableTriggers.VariableTriggers.onEnable(VariableTriggers.java:52) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:291) ~[spigot-1.9.jar:git-Spigot-86016ba-94ba824]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340) [spigot-1.9.jar:git-Spigot-86016ba-94ba824]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405) [spigot-1.9.jar:git-Spigot-86016ba-94ba824]
+	at org.bukkit.craftbukkit.v1_9_R1.CraftServer.loadPlugin(CraftServer.java:361) [spigot-1.9.jar:git-Spigot-86016ba-94ba824]
+	at org.bukkit.craftbukkit.v1_9_R1.CraftServer.enablePlugins(CraftServer.java:321) [spigot-1.9.jar:git-Spigot-86016ba-94ba824]
+	at net.minecraft.server.v1_9_R1.MinecraftServer.t(MinecraftServer.java:411) [spigot-1.9.jar:git-Spigot-86016ba-94ba824]
+	at net.minecraft.server.v1_9_R1.MinecraftServer.l(MinecraftServer.java:376) [spigot-1.9.jar:git-Spigot-86016ba-94ba824]
+	at net.minecraft.server.v1_9_R1.MinecraftServer.a(MinecraftServer.java:331) [spigot-1.9.jar:git-Spigot-86016ba-94ba824]
+	at net.minecraft.server.v1_9_R1.DedicatedServer.init(DedicatedServer.java:269) [spigot-1.9.jar:git-Spigot-86016ba-94ba824]
+	at net.minecraft.server.v1_9_R1.MinecraftServer.run(MinecraftServer.java:527) [spigot-1.9.jar:git-Spigot-86016ba-94ba824]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_73]
+[15:40:02] [Server thread/INFO]: [MultiWorld] Enabling MultiWorld v5.2.6
+[15:40:03] [Server thread/INFO]: -------- World Settings For [survival] --------
+[15:40:03] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:40:03] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:40:03] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:40:03] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:40:03] [Server thread/INFO]: View Distance: 16
+[15:40:03] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:40:03] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:40:03] [Server thread/INFO]: Max Entity Collisions: 8
+[15:40:03] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:40:03] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:40:03] [Server thread/INFO]: Mob Spawn Range: 4
+[15:40:03] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:40:03] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:40:03] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:40:03] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:40:03] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:40:03] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:40:03] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:40:03] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:40:03] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:40:03] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:40:03] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:40:03] [Server thread/INFO]: Random Lighting Updates: false
+[15:40:03] [Server thread/INFO]: Structure Info Saving: true
+[15:40:03] [Server thread/INFO]: Max TNT Explosions: 100
+[15:40:03] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:40:03] [Server thread/INFO]: BukkitPlotGenerator does not fully support: null[m
+[15:40:03] [Server thread/INFO]: Preparing start region for level 3 (Seed: 1935106320587638189)
+[15:40:04] [User Authenticator #2/INFO]: UUID of player EarthGuardian32 is 4fa6fe79-b82c-4d14-87ee-f516ebc46da3
+[15:40:04] [Server thread/INFO]: Preparing spawn area for survival, 4%
+[15:40:05] [Server thread/INFO]: Preparing spawn area for survival, 12%
+[15:40:06] [Server thread/INFO]: Preparing spawn area for survival, 16%
+[15:40:07] [Server thread/INFO]: Preparing spawn area for survival, 24%
+[15:40:08] [Server thread/INFO]: Preparing spawn area for survival, 28%
+[15:40:09] [Server thread/INFO]: Preparing spawn area for survival, 32%
+[15:40:10] [Server thread/INFO]: Preparing spawn area for survival, 36%
+[15:40:11] [Server thread/INFO]: Preparing spawn area for survival, 40%
+[15:40:12] [Server thread/INFO]: Preparing spawn area for survival, 44%
+[15:40:13] [Server thread/INFO]: Preparing spawn area for survival, 44%
+[15:40:14] [Server thread/INFO]: Preparing spawn area for survival, 52%
+[15:40:16] [Server thread/INFO]: Preparing spawn area for survival, 56%
+[15:40:17] [Server thread/INFO]: Preparing spawn area for survival, 60%
+[15:40:18] [Server thread/INFO]: Preparing spawn area for survival, 61%
+[15:40:19] [Server thread/INFO]: Preparing spawn area for survival, 61%
+[15:40:20] [Server thread/INFO]: Preparing spawn area for survival, 65%
+[15:40:21] [Server thread/INFO]: Preparing spawn area for survival, 69%
+[15:40:22] [Server thread/INFO]: Preparing spawn area for survival, 69%
+[15:40:23] [Server thread/INFO]: Preparing spawn area for survival, 77%
+[15:40:24] [Server thread/INFO]: Preparing spawn area for survival, 77%
+[15:40:25] [Server thread/INFO]: Preparing spawn area for survival, 81%
+[15:40:26] [Server thread/INFO]: Preparing spawn area for survival, 85%
+[15:40:27] [Server thread/INFO]: Preparing spawn area for survival, 89%
+[15:40:28] [Server thread/INFO]: Preparing spawn area for survival, 93%
+[15:40:29] [Server thread/INFO]: Preparing spawn area for survival, 97%
+[15:40:30] [Server thread/INFO]: [WorldGuard] (survival) TNT ignition is PERMITTED.
+[15:40:30] [Server thread/INFO]: [WorldGuard] (survival) Lighters are PERMITTED.
+[15:40:30] [Server thread/INFO]: [WorldGuard] (survival) Lava fire is blocked.
+[15:40:30] [Server thread/INFO]: [WorldGuard] (survival) Fire spread is UNRESTRICTED.
+[15:40:30] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'survival'
+[15:40:30] [Server thread/INFO]: [MultiWorld] v5.2.6 enabled.
+[15:40:30] [Server thread/INFO]: [PVP Arena] Enabling pvparena v1.3.1.50
+[15:40:32] [Server thread/INFO]: [0;33;1m[PVP Arena[0;33;1m] [mdebugging: off[m
+[15:40:32] [Server thread/INFO]: [PVP Arena] Downloading module update file...
+[15:40:32] [Server thread/INFO]: [PVP Arena] Downloaded module update file
+[15:40:32] [Server thread/INFO]: [PVP Arena] enabled (version pvparena v1.3.1.50)
+[15:40:32] [Thread-44/INFO]: Checking for updates...
+[15:40:32] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:40:32] [Thread-44/INFO]: You are using [0;33;1mv1.3.1.50[0;37;1m, an outdated version! Latest: [0;32;1mv1.3.2.59[m
+[15:40:32] [Thread-44/INFO]: https://www.spigotmc.org/resources/pvp-arena.16584/[m
+[15:40:33] [Server thread/INFO]: Done (54.843s)! For help, type "help" or "?"
+[15:40:33] [Server thread/INFO]: [bPermissions] Permissions for world survival has loaded!
+[15:40:33] [Craft Scheduler Thread - 4/WARN]: Exception in thread "Craft Scheduler Thread - 4" 
+[15:40:33] [Server thread/INFO]: [bPermissions] Permissions for world world has loaded!
+[15:40:33] [Server thread/INFO]: [bPermissions] Permissions for world world_nether has loaded!
+[15:40:33] [Server thread/INFO]: [bPermissions] Permissions for world world_the_end has loaded!
+[15:40:33] [Server thread/INFO]: [bPermissions] Permissions for world * has loaded!
+[15:40:33] [Server thread/INFO]: [NoCheatPlus] Post-enable running...
+[15:40:33] [Craft Scheduler Thread - 4/WARN]: org.apache.commons.lang.UnhandledException: Plugin CombatLog v1.8.11-hack generated an exception while executing task 53
 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:56)
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
@@ -405,236 +403,294 @@ Caused by: java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lor
 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
 	... 3 more
 
-[18:59:21] [Craft Scheduler Thread - 6/INFO]: [NoCheatPlus] Added hook: AllViolations(NCP) [1.0].
-[18:59:21] [Craft Scheduler Thread - 8/INFO]: [Vault] Checking for Updates ... 
-[18:59:21] [Craft Scheduler Thread - 3/INFO]: You are running the latest version of PlotSquared[m
-[18:59:21] [Craft Scheduler Thread - 8/INFO]: [Vault] No new version available
-[18:59:22] [Server thread/INFO]: Starting UUID caching[m
-[18:59:22] [Craft Scheduler Thread - 8/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;33;22mStarting player data caching for: world[m
-[18:59:22] [Craft Scheduler Thread - 8/INFO]: [0;32;1mFast mode UUID caching enabled![m
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: java.lang.NumberFormatException: For input string: "8be8903ba5cb (2)"
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.NumberFormatException.forInputString(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.Long.parseLong(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.Long.valueOf(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.Long.decode(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.util.UUID.fromString(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at com.plotsquared.bukkit.uuid.FileUUIDHandler$1.run(FileUUIDHandler.java:100)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftTask.run(CraftTask.java:71)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22mInvalid playerdata: 015cc121-0b57-4378-bc65-8be8903ba5cb (2).dat[m
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: java.lang.NumberFormatException: For input string: "3cdb927b2e42 (2)"
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.NumberFormatException.forInputString(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.Long.parseLong(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.Long.valueOf(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.Long.decode(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.util.UUID.fromString(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at com.plotsquared.bukkit.uuid.FileUUIDHandler$1.run(FileUUIDHandler.java:100)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftTask.run(CraftTask.java:71)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22mInvalid playerdata: 062a4433-87bc-4d86-a4c1-3cdb927b2e42 (2).dat[m
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: java.lang.NumberFormatException: For input string: "eabf0c20a240 (2)"
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.NumberFormatException.forInputString(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.Long.parseLong(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.Long.valueOf(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.Long.decode(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.util.UUID.fromString(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at com.plotsquared.bukkit.uuid.FileUUIDHandler$1.run(FileUUIDHandler.java:100)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftTask.run(CraftTask.java:71)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22mInvalid playerdata: 25cd2094-e0c3-4a8d-8269-eabf0c20a240 (2).dat[m
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: java.lang.NumberFormatException: For input string: "9fafd07332a1 (2)"
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.NumberFormatException.forInputString(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.Long.parseLong(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.Long.valueOf(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.Long.decode(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.util.UUID.fromString(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at com.plotsquared.bukkit.uuid.FileUUIDHandler$1.run(FileUUIDHandler.java:100)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftTask.run(CraftTask.java:71)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22mInvalid playerdata: 2e22fd2c-f8de-47a4-9dcd-9fafd07332a1 (2).dat[m
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: java.lang.NumberFormatException: For input string: "bd873362f2e9 (2)"
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.NumberFormatException.forInputString(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.Long.parseLong(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.Long.valueOf(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.Long.decode(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.util.UUID.fromString(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at com.plotsquared.bukkit.uuid.FileUUIDHandler$1.run(FileUUIDHandler.java:100)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftTask.run(CraftTask.java:71)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22mInvalid playerdata: 3e3a4970-050c-4321-854b-bd873362f2e9 (2).dat[m
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: java.lang.NumberFormatException: For input string: "8284bc3448a6 (2)"
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.NumberFormatException.forInputString(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.Long.parseLong(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.Long.valueOf(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.Long.decode(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.util.UUID.fromString(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at com.plotsquared.bukkit.uuid.FileUUIDHandler$1.run(FileUUIDHandler.java:100)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftTask.run(CraftTask.java:71)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22mInvalid playerdata: 49dabf7f-ceb6-36aa-909d-8284bc3448a6 (2).dat[m
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: java.lang.NumberFormatException: For input string: "f516ebc46da3 (2)"
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.NumberFormatException.forInputString(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.Long.parseLong(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.Long.valueOf(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.Long.decode(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.util.UUID.fromString(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at com.plotsquared.bukkit.uuid.FileUUIDHandler$1.run(FileUUIDHandler.java:100)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftTask.run(CraftTask.java:71)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22mInvalid playerdata: 4fa6fe79-b82c-4d14-87ee-f516ebc46da3 (2).dat[m
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: java.lang.NumberFormatException: For input string: "4841fedfe2ed (2)"
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.NumberFormatException.forInputString(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.Long.parseLong(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.Long.valueOf(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.Long.decode(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.util.UUID.fromString(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at com.plotsquared.bukkit.uuid.FileUUIDHandler$1.run(FileUUIDHandler.java:100)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftTask.run(CraftTask.java:71)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22mInvalid playerdata: 51ab86bd-a9ae-4396-9401-4841fedfe2ed (2).dat[m
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: java.lang.NumberFormatException: For input string: "a3afb1bbd217 (2)"
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.NumberFormatException.forInputString(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.Long.parseLong(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.Long.valueOf(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.Long.decode(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.util.UUID.fromString(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at com.plotsquared.bukkit.uuid.FileUUIDHandler$1.run(FileUUIDHandler.java:100)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftTask.run(CraftTask.java:71)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22mInvalid playerdata: 994fcfbc-7a32-3de4-aba2-a3afb1bbd217 (2).dat[m
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: java.lang.NumberFormatException: For input string: "bc73f4932b2f (2)"
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.NumberFormatException.forInputString(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.Long.parseLong(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.Long.valueOf(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.Long.decode(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.util.UUID.fromString(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at com.plotsquared.bukkit.uuid.FileUUIDHandler$1.run(FileUUIDHandler.java:100)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftTask.run(CraftTask.java:71)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22mInvalid playerdata: c42df024-c61c-4609-b0bd-bc73f4932b2f (2).dat[m
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: java.lang.NumberFormatException: For input string: "31e173aabccc (2)"
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.NumberFormatException.forInputString(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.Long.parseLong(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.Long.valueOf(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.Long.decode(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.util.UUID.fromString(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at com.plotsquared.bukkit.uuid.FileUUIDHandler$1.run(FileUUIDHandler.java:100)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftTask.run(CraftTask.java:71)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[18:59:22] [Craft Scheduler Thread - 8/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22mInvalid playerdata: f43ebc66-d0f3-4876-b08d-31e173aabccc (2).dat[m
-[18:59:22] [Craft Scheduler Thread - 8/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;33;22mCached a total of: 2 UUIDs[m
-[18:59:29] [User Authenticator #1/INFO]: UUID of player king_awesome4 is 25cd2094-e0c3-4a8d-8269-eabf0c20a240
-[18:59:29] [Server thread/INFO]: king_awesome4[/192.168.1.1:52453] logged in with entity id 317 at ([creative]0.596927299154143, 71.98795058699146, 76.3412024669511)
-[18:59:33] [Thread-45/WARN]: Exception in thread "Thread-45" 
-[18:59:33] [Thread-45/WARN]: java.lang.NoClassDefFoundError: me/clip/placeholderapi/PlaceholderAPI
-[18:59:33] [Thread-45/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parseVars(VTParser.java:1561)
-[18:59:33] [Thread-45/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parse(VTParser.java:152)
-[18:59:33] [Thread-45/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser$1.run(VTParser.java:108)
-[18:59:33] [Thread-45/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[18:59:40] [User Authenticator #2/INFO]: UUID of player portalsnivy777 is 2e22fd2c-f8de-47a4-9dcd-9fafd07332a1
-[18:59:40] [Server thread/INFO]: portalsnivy777[/108.53.124.188:38674] logged in with entity id 451 at ([survival]-23.228761564597836, 116.21206453892044, -10.668444826737895)
-[18:59:49] [Server thread/WARN]: king_awesome4 moved too quickly! 4.290854913801759,0.0,25.290820874688052
-[18:59:49] [Server thread/ERROR]: Encountered an unexpected exception
+[15:40:33] [Server thread/INFO]: [NoCheatPlus] Post-enable finished.
+[15:40:33] [Craft Scheduler Thread - 6/INFO]: You are running the latest version of PlotSquared[m
+[15:40:33] [Server thread/INFO]: [0;31;1m`creative` was not properly loaded - PlotSquared will now try to load it properly: [m
+[15:40:33] [Server thread/INFO]: [0;30;1m - [0;37;22mAre you trying to delete this world? Remember to remove it from the settings.yml, bukkit.yml and multiverse worlds.yml[m
+[15:40:33] [Server thread/INFO]: [0;30;1m - [0;37;22mYour world management plugin may be faulty (or non existant)[m
+[15:40:33] [Craft Scheduler Thread - 1/WARN]: Exception in thread "Craft Scheduler Thread - 1" 
+[15:40:33] [Craft Scheduler Thread - 0/INFO]: [NoCheatPlus] Added hook: AllViolations(NCP) [1.0].
+[15:40:33] [Craft Scheduler Thread - 1/WARN]: org.apache.commons.lang.UnhandledException: Plugin MultiWorld v5.2.6 generated an exception while executing task 58
+	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:56)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at multiworld.metrics.Metrics.postPlugin(Metrics.java:372)
+	at multiworld.metrics.Metrics.access$400(Metrics.java:56)
+	at multiworld.metrics.Metrics$1.run(Metrics.java:238)
+	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftTask.run(CraftTask.java:71)
+	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
+	... 3 more
+
+[15:40:33] [Server thread/INFO]: [TerrainControl] Starting to enable world ''CheckingPlotSquaredGenerator''...
+[15:40:34] [Server thread/INFO]: [TerrainControl] 0 world custom objects loaded.
+[15:40:35] [Server thread/INFO]: [TerrainControl] 62 biomes Loaded
+[15:40:35] [Server thread/INFO]: BukkitPlotGenerator does not fully support: com.khorn.terraincontrol.bukkit.generator.TCChunkGenerator@1ae26cd[m
+[15:40:35] [Server thread/WARN]: [PlotSquared] Task #23 for PlotSquared v3.3.1 generated an exception
+java.lang.NullPointerException
+	at com.khorn.terraincontrol.bukkit.TCPlugin.onWorldInit(TCPlugin.java:178) ~[?:?]
+	at com.khorn.terraincontrol.bukkit.generator.TCChunkGenerator.makeSureWorldIsInitialized(TCChunkGenerator.java:42) ~[?:?]
+	at com.khorn.terraincontrol.bukkit.generator.TCChunkGenerator.getDefaultPopulators(TCChunkGenerator.java:68) ~[?:?]
+	at com.plotsquared.bukkit.generator.BukkitPlotGenerator.<init>(BukkitPlotGenerator.java:172) ~[?:?]
+	at com.plotsquared.bukkit.util.BukkitSetupUtils.updateGenerators(BukkitSetupUtils.java:43) ~[?:?]
+	at com.plotsquared.bukkit.util.BukkitSetupUtils.setupWorld(BukkitSetupUtils.java:53) ~[?:?]
+	at com.plotsquared.bukkit.BukkitMain.setGenerator(BukkitMain.java:557) ~[?:?]
+	at com.intellectualcrafters.plot.PS$4.run(PS.java:259) ~[?:?]
+	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot-1.9.jar:git-Spigot-86016ba-94ba824]
+	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot-1.9.jar:git-Spigot-86016ba-94ba824]
+	at net.minecraft.server.v1_9_R1.MinecraftServer.D(MinecraftServer.java:729) [spigot-1.9.jar:git-Spigot-86016ba-94ba824]
+	at net.minecraft.server.v1_9_R1.DedicatedServer.D(DedicatedServer.java:400) [spigot-1.9.jar:git-Spigot-86016ba-94ba824]
+	at net.minecraft.server.v1_9_R1.MinecraftServer.C(MinecraftServer.java:660) [spigot-1.9.jar:git-Spigot-86016ba-94ba824]
+	at net.minecraft.server.v1_9_R1.MinecraftServer.run(MinecraftServer.java:559) [spigot-1.9.jar:git-Spigot-86016ba-94ba824]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_73]
+[15:40:35] [Craft Scheduler Thread - 3/INFO]: [Vault] Checking for Updates ... 
+[15:40:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@206170[id=4fa6fe79-b82c-4d14-87ee-f516ebc46da3,name=EarthGuardian32,properties={textures=[com.mojang.authlib.properties.Property@12be061]},legacy=false] (/73.160.233.52:51977) lost connection: Disconnected
+[15:40:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@32257[id=4fa6fe79-b82c-4d14-87ee-f516ebc46da3,name=EarthGuardian32,properties={textures=[com.mojang.authlib.properties.Property@b74add]},legacy=false] (/73.160.233.52:52008) lost connection: Disconnected
+[15:40:35] [Craft Scheduler Thread - 3/INFO]: [Vault] No new version available
+[15:40:38] [Server thread/INFO]: Starting UUID caching[m
+[15:40:38] [Craft Scheduler Thread - 3/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;33;22mStarting player data caching for: world[m
+[15:40:38] [Craft Scheduler Thread - 3/INFO]: [0;32;1mFast mode UUID caching enabled![m
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: java.lang.NumberFormatException: For input string: "8be8903ba5cb (2)"
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.NumberFormatException.forInputString(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.Long.parseLong(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.Long.valueOf(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.Long.decode(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.util.UUID.fromString(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at com.plotsquared.bukkit.uuid.FileUUIDHandler$1.run(FileUUIDHandler.java:100)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftTask.run(CraftTask.java:71)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22mInvalid playerdata: 015cc121-0b57-4378-bc65-8be8903ba5cb (2).dat[m
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: java.lang.NumberFormatException: For input string: "3cdb927b2e42 (2)"
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.NumberFormatException.forInputString(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.Long.parseLong(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.Long.valueOf(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.Long.decode(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.util.UUID.fromString(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at com.plotsquared.bukkit.uuid.FileUUIDHandler$1.run(FileUUIDHandler.java:100)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftTask.run(CraftTask.java:71)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22mInvalid playerdata: 062a4433-87bc-4d86-a4c1-3cdb927b2e42 (2).dat[m
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: java.lang.NumberFormatException: For input string: "eabf0c20a240 (2)"
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.NumberFormatException.forInputString(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.Long.parseLong(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.Long.valueOf(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.Long.decode(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.util.UUID.fromString(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at com.plotsquared.bukkit.uuid.FileUUIDHandler$1.run(FileUUIDHandler.java:100)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftTask.run(CraftTask.java:71)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22mInvalid playerdata: 25cd2094-e0c3-4a8d-8269-eabf0c20a240 (2).dat[m
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: java.lang.NumberFormatException: For input string: "9fafd07332a1 (2)"
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.NumberFormatException.forInputString(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.Long.parseLong(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.Long.valueOf(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.Long.decode(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.util.UUID.fromString(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at com.plotsquared.bukkit.uuid.FileUUIDHandler$1.run(FileUUIDHandler.java:100)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftTask.run(CraftTask.java:71)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22mInvalid playerdata: 2e22fd2c-f8de-47a4-9dcd-9fafd07332a1 (2).dat[m
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: java.lang.NumberFormatException: For input string: "bd873362f2e9 (2)"
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.NumberFormatException.forInputString(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.Long.parseLong(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.Long.valueOf(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.Long.decode(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.util.UUID.fromString(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at com.plotsquared.bukkit.uuid.FileUUIDHandler$1.run(FileUUIDHandler.java:100)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftTask.run(CraftTask.java:71)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22mInvalid playerdata: 3e3a4970-050c-4321-854b-bd873362f2e9 (2).dat[m
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: java.lang.NumberFormatException: For input string: "8284bc3448a6 (2)"
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.NumberFormatException.forInputString(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.Long.parseLong(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.Long.valueOf(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.Long.decode(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.util.UUID.fromString(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at com.plotsquared.bukkit.uuid.FileUUIDHandler$1.run(FileUUIDHandler.java:100)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftTask.run(CraftTask.java:71)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22mInvalid playerdata: 49dabf7f-ceb6-36aa-909d-8284bc3448a6 (2).dat[m
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: java.lang.NullPointerException
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at com.plotsquared.bukkit.uuid.FileUUIDHandler$1.run(FileUUIDHandler.java:106)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftTask.run(CraftTask.java:71)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22mInvalid playerdata: 49dabf7f-ceb6-36aa-909d-8284bc3448a6.dat[m
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: java.lang.NumberFormatException: For input string: "f516ebc46da3 (2)"
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.NumberFormatException.forInputString(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.Long.parseLong(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.Long.valueOf(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.Long.decode(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.util.UUID.fromString(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at com.plotsquared.bukkit.uuid.FileUUIDHandler$1.run(FileUUIDHandler.java:100)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftTask.run(CraftTask.java:71)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22mInvalid playerdata: 4fa6fe79-b82c-4d14-87ee-f516ebc46da3 (2).dat[m
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: java.lang.NumberFormatException: For input string: "4841fedfe2ed (2)"
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.NumberFormatException.forInputString(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.Long.parseLong(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.Long.valueOf(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.Long.decode(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.util.UUID.fromString(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at com.plotsquared.bukkit.uuid.FileUUIDHandler$1.run(FileUUIDHandler.java:100)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftTask.run(CraftTask.java:71)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22mInvalid playerdata: 51ab86bd-a9ae-4396-9401-4841fedfe2ed (2).dat[m
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: java.lang.NumberFormatException: For input string: "a3afb1bbd217 (2)"
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.NumberFormatException.forInputString(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.Long.parseLong(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.Long.valueOf(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.Long.decode(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.util.UUID.fromString(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at com.plotsquared.bukkit.uuid.FileUUIDHandler$1.run(FileUUIDHandler.java:100)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftTask.run(CraftTask.java:71)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22mInvalid playerdata: 994fcfbc-7a32-3de4-aba2-a3afb1bbd217 (2).dat[m
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: java.lang.NumberFormatException: For input string: "bc73f4932b2f (2)"
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.NumberFormatException.forInputString(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.Long.parseLong(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.Long.valueOf(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.Long.decode(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.util.UUID.fromString(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at com.plotsquared.bukkit.uuid.FileUUIDHandler$1.run(FileUUIDHandler.java:100)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftTask.run(CraftTask.java:71)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22mInvalid playerdata: c42df024-c61c-4609-b0bd-bc73f4932b2f (2).dat[m
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: java.lang.NumberFormatException: For input string: "31e173aabccc (2)"
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.NumberFormatException.forInputString(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.Long.parseLong(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.Long.valueOf(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.Long.decode(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.util.UUID.fromString(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at com.plotsquared.bukkit.uuid.FileUUIDHandler$1.run(FileUUIDHandler.java:100)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftTask.run(CraftTask.java:71)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[15:40:38] [Craft Scheduler Thread - 3/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22mInvalid playerdata: f43ebc66-d0f3-4876-b08d-31e173aabccc (2).dat[m
+[15:40:38] [Craft Scheduler Thread - 3/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;33;22mCached a total of: 11 UUIDs[m
+[15:40:47] [Thread-45/WARN]: Exception in thread "Thread-45" 
+[15:40:47] [Thread-45/WARN]: java.lang.NoClassDefFoundError: me/clip/placeholderapi/PlaceholderAPI
+[15:40:47] [Thread-45/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parseVars(VTParser.java:1561)
+[15:40:47] [Thread-45/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser.parse(VTParser.java:152)
+[15:40:47] [Thread-45/WARN]: 	at com.github.lyokofirelyte.VariableTriggers.VTParser$1.run(VTParser.java:108)
+[15:40:47] [Thread-45/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[15:40:47] [Thread-45/WARN]: Caused by: java.lang.ClassNotFoundException: me.clip.placeholderapi.PlaceholderAPI
+[15:40:47] [Thread-45/WARN]: 	at java.net.URLClassLoader.findClass(Unknown Source)
+[15:40:47] [Thread-45/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:101)
+[15:40:47] [Thread-45/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:86)
+[15:40:47] [Thread-45/WARN]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[15:40:47] [Thread-45/WARN]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[15:40:47] [Thread-45/WARN]: 	... 4 more
+[15:40:55] [User Authenticator #3/INFO]: UUID of player EarthGuardian32 is 4fa6fe79-b82c-4d14-87ee-f516ebc46da3
+[15:41:23] [Server thread/INFO]: EarthGuardian32[/73.160.233.52:52031] logged in with entity id 253 at ([world]-36.29643734945033, 6.0, 45.752834510962266)
+[15:41:36] [Server thread/ERROR]: Encountered an unexpected exception
 net.minecraft.server.v1_9_R1.ReportedException: Exception ticking world
 	at net.minecraft.server.v1_9_R1.MinecraftServer.D(MinecraftServer.java:787) ~[spigot-1.9.jar:git-Spigot-86016ba-94ba824]
 	at net.minecraft.server.v1_9_R1.DedicatedServer.D(DedicatedServer.java:400) ~[spigot-1.9.jar:git-Spigot-86016ba-94ba824]
 	at net.minecraft.server.v1_9_R1.MinecraftServer.C(MinecraftServer.java:660) ~[spigot-1.9.jar:git-Spigot-86016ba-94ba824]
 	at net.minecraft.server.v1_9_R1.MinecraftServer.run(MinecraftServer.java:559) [spigot-1.9.jar:git-Spigot-86016ba-94ba824]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_73]
-Caused by: java.util.ConcurrentModificationException
-	at java.util.HashMap$HashIterator.nextNode(Unknown Source) ~[?:1.8.0_73]
-	at java.util.HashMap$KeyIterator.next(Unknown Source) ~[?:1.8.0_73]
-	at net.minecraft.server.v1_9_R1.PlayerChunkMap.flush(PlayerChunkMap.java:119) ~[spigot-1.9.jar:git-Spigot-86016ba-94ba824]
+Caused by: java.lang.OutOfMemoryError: Java heap space
+	at net.minecraft.server.v1_9_R1.PacketPlayOutMapChunk.<init>(PacketPlayOutMapChunk.java:23) ~[spigot-1.9.jar:git-Spigot-86016ba-94ba824]
+	at net.minecraft.server.v1_9_R1.PlayerChunk.b(PlayerChunk.java:135) ~[spigot-1.9.jar:git-Spigot-86016ba-94ba824]
+	at net.minecraft.server.v1_9_R1.PlayerChunkMap.flush(PlayerChunkMap.java:185) ~[spigot-1.9.jar:git-Spigot-86016ba-94ba824]
 	at net.minecraft.server.v1_9_R1.WorldServer.doTick(WorldServer.java:253) ~[spigot-1.9.jar:git-Spigot-86016ba-94ba824]
 	at net.minecraft.server.v1_9_R1.MinecraftServer.D(MinecraftServer.java:776) ~[spigot-1.9.jar:git-Spigot-86016ba-94ba824]
 	... 4 more
-[18:59:49] [Server thread/ERROR]: 	Cause of unexpected exception was
-java.util.ConcurrentModificationException
-	at java.util.HashMap$HashIterator.nextNode(Unknown Source) ~[?:1.8.0_73]
-	at java.util.HashMap$KeyIterator.next(Unknown Source) ~[?:1.8.0_73]
-	at net.minecraft.server.v1_9_R1.PlayerChunkMap.flush(PlayerChunkMap.java:119) ~[spigot-1.9.jar:git-Spigot-86016ba-94ba824]
+[15:41:36] [Server thread/ERROR]: 	Cause of unexpected exception was
+java.lang.OutOfMemoryError: Java heap space
+	at net.minecraft.server.v1_9_R1.PacketPlayOutMapChunk.<init>(PacketPlayOutMapChunk.java:23) ~[spigot-1.9.jar:git-Spigot-86016ba-94ba824]
+	at net.minecraft.server.v1_9_R1.PlayerChunk.b(PlayerChunk.java:135) ~[spigot-1.9.jar:git-Spigot-86016ba-94ba824]
+	at net.minecraft.server.v1_9_R1.PlayerChunkMap.flush(PlayerChunkMap.java:185) ~[spigot-1.9.jar:git-Spigot-86016ba-94ba824]
 	at net.minecraft.server.v1_9_R1.WorldServer.doTick(WorldServer.java:253) ~[spigot-1.9.jar:git-Spigot-86016ba-94ba824]
 	at net.minecraft.server.v1_9_R1.MinecraftServer.D(MinecraftServer.java:776) ~[spigot-1.9.jar:git-Spigot-86016ba-94ba824]
 	at net.minecraft.server.v1_9_R1.DedicatedServer.D(DedicatedServer.java:400) ~[spigot-1.9.jar:git-Spigot-86016ba-94ba824]
 	at net.minecraft.server.v1_9_R1.MinecraftServer.C(MinecraftServer.java:660) ~[spigot-1.9.jar:git-Spigot-86016ba-94ba824]
 	at net.minecraft.server.v1_9_R1.MinecraftServer.run(MinecraftServer.java:559) [spigot-1.9.jar:git-Spigot-86016ba-94ba824]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_73]
-[18:59:49] [Server thread/ERROR]: This crash report has been saved to: C:\Users\aeric\Desktop\1.9\1.9 server\.\crash-reports\crash-2016-03-13_18.59.49-server.txt
-[18:59:49] [Server thread/INFO]: Stopping server
-[18:59:49] [Server thread/INFO]: [PVP Arena] Disabling pvparena v1.3.1.50
-[18:59:49] [Server thread/INFO]: [PVP Arena] Plugin tracking disabled. See you soon?
-[18:59:49] [Server thread/INFO]: [PVP Arena] disabled (version pvparena v1.3.1.50)
-[18:59:49] [Server thread/INFO]: [MultiWorld] Disabling MultiWorld v5.2.6
-[18:59:49] [Server thread/INFO]: [MultiWorld] Disabled.
-[18:59:49] [Server thread/INFO]: [VTV2] Disabling VariableTriggers v2
-[18:59:49] [Server thread/INFO]: [VTV2] [1;35mI don't want to go![0;37m
-[18:59:49] [Server thread/INFO]: [PlotSquared] Disabling PlotSquared v3.3.1
-[18:59:49] [Server thread/INFO]: [0;33;22mAll DB transactions during this session are being validated (This may take a while if corrections need to be made)[m
-[18:59:49] [Server thread/INFO]: [CreativeGates] Disabling CreativeGates v2.8.7Beta
-[18:59:49] [Server thread/INFO]: [0;36;22m[[0;36;1mCreativeGates 2.8.7Beta[0;36;22m] [0;33;1mDisabled[m
-[18:59:49] [Server thread/INFO]: [CombatLog] Disabling CombatLog v1.8.11-hack
-[18:59:49] [Server thread/INFO]: [CombatLog] CombatLog v1.8.11-hack Disabled.
-[18:59:49] [Server thread/INFO]: [Factions] Disabling Factions v2.8.7Beta
-[18:59:49] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.8.7Beta[0;36;22m] [0;33;1m[0;31;1mDeactivated Integration [0;35;1mIntegrationWorldGuard[m
-[18:59:49] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.8.7Beta[0;36;22m] [0;33;1m[0;31;1mDeactivated Integration [0;35;1mIntegrationSpigot[m
-[18:59:49] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.8.7Beta[0;36;22m] [0;33;1mDisabled[m
-[18:59:49] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
-[18:59:49] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
-[18:59:49] [Server thread/INFO]: [MassiveCore] Disabling MassiveCore v2.8.7Beta
-[18:59:49] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1m[0;31;1mDeactivated Integration [0;35;1mIntegrationVault[m
-[18:59:49] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1mDisabled[m
-[18:59:49] [Server thread/INFO]: [bPermissions] Disabling bPermissions v2.10.9m
-[18:59:49] [Server thread/INFO]: WEPIF: bPermissions detected! Using bPermissions for permissions
-[18:59:49] [Server thread/INFO]: [Vault][Permission] bPermissions2 un-hooked.
-[18:59:49] [Server thread/INFO]: [Vault][Chat] bPermissions2 un-hooked.
-[18:59:49] [Server thread/INFO]: [bPermissions] Disabled
-[18:59:49] [Server thread/INFO]: [Vault] Disabling Vault v1.5.6-b49
-[18:59:49] [Server thread/INFO]: [HealthBar] Disabling HealthBar v1.8.3
-[18:59:49] [Server thread/INFO]: HealthBar disabled, all the health bars have been removed.
-[18:59:49] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
-[18:59:49] [Server thread/INFO]: [NoCheatPlus] Disabling NoCheatPlus v3.14.0-SNAPSHOT-sMD5NET-b942
-[18:59:49] [Server thread/INFO]: [NoCheatPlus] Removed hook: AllViolations(NCP) [1.0].
-[18:59:49] [Server thread/INFO]: Version 3.14.0-SNAPSHOT-sMD5NET-b942 is disabled.
-[18:59:49] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v2.12.0
-[18:59:49] [Server thread/INFO]: Saving players
-[18:59:49] [Server thread/INFO]: king_awesome4 lost connection: Server closed
-[18:59:49] [Server thread/INFO]: king_awesome4 left the game.
-[18:59:49] [Server thread/INFO]: Saving worlds
-[18:59:49] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[18:59:50] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
-[18:59:50] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
-[18:59:50] [Server thread/INFO]: Saving chunks for level 'creative'/Overworld
-[18:59:51] [Server thread/INFO]: Saving chunks for level 'survival'/Overworld
+[15:41:36] [Server thread/ERROR]: This crash report has been saved to: C:\Users\Dualboot\Desktop\1.9\1.9 server\.\crash-reports\crash-2016-03-14_15.41.36-server.txt
+[15:41:36] [Server thread/INFO]: Stopping server
+[15:41:36] [Server thread/INFO]: [PVP Arena] Disabling pvparena v1.3.1.50
+[15:41:36] [Server thread/INFO]: [PVP Arena] Plugin tracking disabled. See you soon?
+[15:41:36] [Server thread/INFO]: [PVP Arena] disabled (version pvparena v1.3.1.50)
+[15:41:36] [Server thread/INFO]: [MultiWorld] Disabling MultiWorld v5.2.6
+[15:41:36] [Server thread/INFO]: [MultiWorld] Disabled.
+[15:41:36] [Server thread/INFO]: [VTV2] Disabling VariableTriggers v2
+[15:41:36] [Server thread/INFO]: [VTV2] [1;35mI don't want to go![0;37m
+[15:41:37] [Server thread/INFO]: [PlotSquared] Disabling PlotSquared v3.3.1
+[15:41:37] [Server thread/INFO]: [0;33;22mAll DB transactions during this session are being validated (This may take a while if corrections need to be made)[m
+[15:41:37] [Server thread/INFO]: [0;31;1mCould not close database connection![m
+[15:41:37] [Server thread/INFO]: [CreativeGates] Disabling CreativeGates v2.8.7Beta
+[15:41:37] [Server thread/INFO]: [0;36;22m[[0;36;1mCreativeGates 2.8.7Beta[0;36;22m] [0;33;1mDisabled[m
+[15:41:37] [Server thread/INFO]: [CombatLog] Disabling CombatLog v1.8.11-hack
+[15:41:37] [Server thread/INFO]: [CombatLog] CombatLog v1.8.11-hack Disabled.
+[15:41:37] [Server thread/INFO]: [Factions] Disabling Factions v2.8.7Beta
+[15:41:37] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.8.7Beta[0;36;22m] [0;33;1m[0;31;1mDeactivated Integration [0;35;1mIntegrationWorldGuard[m
+[15:41:37] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.8.7Beta[0;36;22m] [0;33;1m[0;31;1mDeactivated Integration [0;35;1mIntegrationSpigot[m
+[15:41:37] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.8.7Beta[0;36;22m] [0;33;1mDisabled[m
+[15:41:37] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
+[15:41:37] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[15:41:37] [Server thread/INFO]: [MassiveCore] Disabling MassiveCore v2.8.7Beta
+[15:41:37] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1m[0;31;1mDeactivated Integration [0;35;1mIntegrationVault[m
+[15:41:37] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1mDisabled[m
+[15:41:37] [Server thread/INFO]: [bPermissions] Disabling bPermissions v2.10.9m
+[15:41:37] [Server thread/INFO]: WEPIF: bPermissions detected! Using bPermissions for permissions
+[15:41:37] [Server thread/INFO]: [Vault][Permission] bPermissions2 un-hooked.
+[15:41:37] [Server thread/INFO]: [Vault][Chat] bPermissions2 un-hooked.
+[15:41:37] [Server thread/INFO]: [bPermissions] Disabled
+[15:41:37] [Server thread/INFO]: [FreeTeleport] Disabling FreeTeleport v3.5
+[15:41:37] [Server thread/INFO]: [FreeTeleport] Disabled
+[15:41:37] [Server thread/INFO]: [Vault] Disabling Vault v1.5.6-b49
+[15:41:37] [Server thread/INFO]: [Buycraft] Disabling Buycraft v6.8.2
+[15:41:37] [Server thread/INFO]: [Buycraft] Plugin has been disabled.
+[15:41:37] [Server thread/INFO]: [TerrainControl] Disabling TerrainControl v2.8.0-SNAPSHOT
+[15:41:37] [Server thread/INFO]: [HealthBar] Disabling HealthBar v1.8.3
+[15:41:37] [Server thread/INFO]: HealthBar disabled, all the health bars have been removed.
+[15:41:37] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[15:41:37] [Server thread/INFO]: [NoCheatPlus] Disabling NoCheatPlus v3.14.0-SNAPSHOT-sMD5NET-b942
+[15:41:37] [Server thread/INFO]: [NoCheatPlus] Removed hook: AllViolations(NCP) [1.0].
+[15:41:37] [Server thread/INFO]: Version 3.14.0-SNAPSHOT-sMD5NET-b942 is disabled.
+[15:41:37] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v2.12.0
+[15:41:37] [Server thread/INFO]: Saving players
+[15:41:37] [Server thread/INFO]: EarthGuardian32 lost connection: Server closed
+[15:41:37] [Server thread/INFO]: EarthGuardian32 left the game.
+[15:41:38] [Server thread/INFO]: Saving worlds
+[15:41:38] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[15:41:41] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[15:41:41] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
+[15:41:41] [Server thread/INFO]: Saving chunks for level 'survival'/Overworld
